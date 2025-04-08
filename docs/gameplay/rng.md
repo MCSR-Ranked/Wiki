@@ -3,7 +3,7 @@
 ## Explanation
 For a fair and competitive nature, MCSR Ranked standardizes some RNG (Random Number Generation) through the **RNG Seed**. As a result, all players in the match will experience the same loot rates in the same order.
 
-The RNG Seed is same as Overworld seed by default. In private room, you can use different RNG Seed.
+The RNG Seed is same as Overworld seed by default. In private room, you can use a different RNG Seed.
 
 This document will describe what is standardized based on RNG Seed.
 
