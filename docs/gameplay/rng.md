@@ -21,7 +21,7 @@ This document will describe what is standardized based on RNG Seed.
 
 ## Block Drop Loot
 - Flint rates from Gravel are standardized
-- Sticks from rates Dead Bush are standardized
+- Sticks rates from Dead Bushes are standardized
 - Apples rates from Leaves are standardized
 
 ## Item Usage
