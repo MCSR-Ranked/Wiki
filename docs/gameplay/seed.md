@@ -23,7 +23,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 ### Village
 - Spawns within 7 chunks
 - Contains a guaranteed Blacksmith
-- 3 lava pools are guaranteed near to the Village OR the Blacksmith contains 8+ Obsidians for an enter with blacksmith lava
+- 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with blacksmith lava
 - Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
 - Taiga villages always have 10+ Obsidian enters (lava pools do still exist)
 - Golem only ever drops 4 Iron, never 3 or never 5.
