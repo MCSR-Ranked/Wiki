@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MCSR Ranked Wiki",
   description: "Welcome to MCSR Ranked Wiki Page",
+  base: '/',
 
   head: [
     ['link', { rel: 'icon', href: '/icon.png' }]
