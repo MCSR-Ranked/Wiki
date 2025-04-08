@@ -53,7 +53,7 @@ The mod tries to attempt up to 4 spots in the spawner. These 4 spots are the sam
 - Rain/storm cycle is standardized
 - Villager trade offers are standardized
 
-## Player & Portal Behabiors
+## Player & Portal Behaviors
 - Player's spawn coordinates are standardized
 - Initial Nether entry location is standardized by spawn coordinates. The Y level behaviour is standardized to 64. 
 ::: details
