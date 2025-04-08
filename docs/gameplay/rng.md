@@ -8,7 +8,7 @@ The RNG Seed is same as Overworld seed by default. In private room, you can use 
 This document will describe what is standardized based on RNG Seed.
 
 ## Piglin Barters
-- Barter chances for Ender Pearls and Obsidian is increased
+- Barter chances for Ender Pearls and Obsidian are increased
 - 6 Obsidian is guaranteed in the first 72 barters (8 Gold Blocks)
 - 3 Ender Pearl trades are guaranteed in the first 72 barters (8 Gold Blocks)
 - All players in the match have the same trades in the same order
