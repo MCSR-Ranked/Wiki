@@ -14,8 +14,8 @@ This document will describe what is standardized based on RNG Seed.
 - All players in the match have the same trades in the same order
 
 ## Entity Drop Loot
-- Blaze Rods rates from Blaze are standardized
-- Ender Pearls rates from Enderman are standardized
+- Blaze Rod rates from Blazes are standardized
+- Ender Pearl rates from Endermen are standardized
 - Iron Golems will always drop 4 Iron
 - Food drops from animals and Hoglins are standardized
 
