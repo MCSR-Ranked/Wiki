@@ -63,7 +63,7 @@ For more efficient filtering and usability, the overworld and nether will be fil
 - Closest Bastion Ramnant is always the intended Bastion Ramnant, it will be at least 10 chunks closer than any other Bastion Ramnant to 0,0*
 - Intended Bastion Ramnant is within 14 chunks of 0,0*
 - Intended Bastion Ramnant always has 3+ Irons and 5+ Obsidians somewhere in the ramparts (or center chest for housing)
-- Stables Bastion Ramnant must be have at least 1 triple chest rampart
+- Stables Bastion Ramnant must be have at least 1 good gap
 
 *: it does mean X coodinate at 0 and Z coodinate at 0. (0, 0)
 
