@@ -46,7 +46,7 @@ For more efficient filtering and usability, the overworld and nether will be fil
 ### Ruined Portal
 - Spawn within 3 chunks
 - Enterable with Obsidian or Bucket (50/50)
-- 1/3 chances to there won’t be enough Iron for Iron Pickaxe
+- There's chances to won’t be enough Iron for Iron Pickaxe
 - Food in chest or animals within 5 chunks + Flint and Steel/Fire Aspect Sword
 - A light is guaranteed! (i.e Flint and Steel, Fire Charge, Flint and extra iron nuggets)
 - Guaranteed at least 18 iron nuggets, excluding those needed to make the Bucket.
