@@ -16,6 +16,8 @@ For more efficient filtering and usability, the overworld and nether are filtere
 
 *: Based on the average ELO Rate of all players in the match.
 
+In Private Room, each seeds have 20% distribution like 1200+ range.
+
 ## Overworld Types
 
 ### Village
@@ -46,7 +48,7 @@ For more efficient filtering and usability, the overworld and nether are filtere
 ### Ruined Portal
 - Spawns within 3 chunks
 - Enterable with Obsidian or Bucket (50/50)
-- 1/3 chance that there won’t be enough Iron for an Iron Pickaxe
+- There's a chance that there won’t be enough Iron for an Iron Pickaxe
 - Food in chest or animals within 5 chunks with a Flint and Steel / Fire Aspect Sword
 - A light is guaranteed! (i.e Flint and Steel, Fire Charge, Flint and extra iron nuggets)
 - Guaranteed at least 18 iron nuggets, excluding those needed to make the Bucket.
