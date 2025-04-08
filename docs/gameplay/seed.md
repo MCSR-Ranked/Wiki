@@ -75,7 +75,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Open terrain check from the Bastion Remnant to the Fortress
 
 ## The End
-For the most part, The End uses the same seed as Overworld seed. And there is no filtering condition, so any seed can filtered out.
+For the most part, The End uses the same seed as Overworld seed. And there is no filtering condition, so any seed can be selected regardless of its End generation.
 
 ## RNG
 For the most part, RNG seed uses the same seed as Overworld seed. Check this [document](./rng)
