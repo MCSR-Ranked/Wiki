@@ -62,11 +62,11 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 ## Nether Requirements
 
 ### Bastion Remnant
-- Closest Bastion Remnant is always the intended Bastion Remnant, it will be at least 10 chunks closer than any other Bastion Remnant to 0,0*
-- Intended Bastion Remnant is within 14 chunks of 0,0*
-- Intended Bastion Remnant always has 3+ Iron and 5+ Obsidians somewhere in the ramparts' chests (or center chest for housing)
-- Stables Bastion Remnant must have at least 1 good gap
-- Open terrain check from approximate nether entry to the Bastion Remnant
+- Closest Bastion is always the intended Bastion, it will be at least 10 chunks closer than any other Bastion to 0,0*
+- Intended Bastion is within 14 chunks of 0,0*
+- Intended Bastion always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests (or center chest for housing)
+- Stables Bastion must have at least 1 good gap
+- Open terrain check from approximate nether entry to the Bastion
 
 *: This means that the X coodinate is 0 and Z coodinate is 0. (0, 0)
 
