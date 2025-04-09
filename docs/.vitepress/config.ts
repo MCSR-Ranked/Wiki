@@ -16,10 +16,30 @@ export default defineConfig({
     nav: [
       { text: 'Install', link: '/install' },
       { text: 'Gameplay', link: '/gameplay' },
-      { text: 'Playoffs', link: '/playoffs' }
+      { text: 'Playoffs', link: '/playoffs' },
+      { text: 'Contribute', link: '/contribute' }
     ],
 
     sidebar: {
+      '/install': [
+        {
+          text: 'Installation',
+          link: '/',
+          base: '/install',
+          items: [
+            { text: 'Download', link: '/download' },
+            { 
+              text: 'Launcher Guide', 
+              items: [
+                { text: 'Prism Launcher / MultiMC', link: '/install_prism' },
+                { text: 'Modrinth App', link: '/install_modrinth' },
+                { text: 'Minecraft Launcher', link: '/install_vanilla' },
+              ]
+            },
+            { text: 'Troubleshooting', link: '/troubleshooting' },
+          ]
+        }
+      ],
       '/gameplay': [
         {
           text: 'Gameplay',
@@ -34,6 +54,9 @@ export default defineConfig({
               ]
             },
             { text: 'Match-Making', link: '/matchmaking' },
+            { text: 'Private Rooms', link: '/private_rooms' },
+            { text: 'Weekly Race', link: '/weekly_race' },
+            { text: 'Achievements', link: '/achievements' },
           ]
         }
       ],
@@ -48,6 +71,23 @@ export default defineConfig({
               items: [
                 { text: 'Phase Point System', link: '/phase_point' },
                 { text: 'Midseason Showdown', link: '/midseason_showdown' }
+              ]
+            }
+          ]
+        },
+      ],
+      'contribute': [
+        { 
+          text: 'Contribute',
+          link: '/',
+          base: '/contribute',
+          items: [
+            { text: 'Contribution Guidelines', link: '/guidelines' },
+            {
+              text: 'Contribute on Page',
+              items: [
+                { text: 'Edit the Page', link: '/pull_request' },
+                { text: 'Request Reviews', link: '/review' }
               ]
             }
           ]
