@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DPDPlp3K.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"playoffs/index.md","filePath":"playoffs/index.md","lastUpdated":1744191891000}'),o={name:"playoffs/index.md"};function s(n,r,d,c,p,f){return a(),t("div")}const _=e(o,[["render",s]]);export{l as __pageData,_ as default};
