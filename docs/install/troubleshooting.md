@@ -144,7 +144,7 @@ On Windows:
   <img src="./img/gpu_guide.png" alt="Logo" style="display: block; margin: 0 auto;">
 </div>
 
-1. Select the javaw.exe that Minecraft is using, and set it to “High performance”.
+2. Select the javaw.exe that Minecraft is using, and set it to “High performance”.
 
 If you don’t know where to find javaw.exe,
 
