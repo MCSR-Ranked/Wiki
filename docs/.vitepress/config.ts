@@ -26,6 +26,7 @@ export default defineConfig({
           link: '/',
           base: '/install',
           items: [
+            { text: 'Download', link: '/download' },
             { 
               text: 'Launcher Guide', 
               items: [
