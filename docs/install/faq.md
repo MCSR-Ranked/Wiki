@@ -29,7 +29,7 @@ Credit to Ataraxia for writing the original version of this document.
 
 ## How do I set up Ranked?
 
-See [the installation guide](../) for instructions.
+See [the installation guide](./install) for instructions.
 
 ## I have the mods but they don’t show up in-game (I don’t see the ranked button)
 
