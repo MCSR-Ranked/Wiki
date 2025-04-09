@@ -18,7 +18,7 @@ Pressing Live Replay Settings lets you switch between which player you spectate,
 
 You can move around freely in replay mode unless you turn on Live Replay Settings > Spectator Camera, which locks your view to the player.
 
-Many of these options are available in the spectator bar which is accessed by pressing the 8 key in game. Additional options can be found by pressing 8 three times, which brings you to the next page, where you can increase or decrease the game speed and also toggle the visibility of player names.
+Many of these options are available in the spectator bar which is accessed by pressing any hotbar hotkey in game. Additional options can be found by pressing your 8 slot hotkey three times, which brings you to the next page, where you can increase or decrease the game speed and also toggle the visibility of player names.
 
 ## Downloading replays
 - Replays are deleted after two weeks unless they are downloaded.
