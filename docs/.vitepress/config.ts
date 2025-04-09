@@ -36,7 +36,7 @@ export default defineConfig({
                 { text: 'Minecraft Launcher', link: '/install_vanilla' },
               ]
             },
-            { text: 'Troubleshooting', link: '/troubleshooting' },
+            { text: 'FAQ', link: '/faq' },
           ]
         }
       ],

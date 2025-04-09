@@ -1,7 +1,7 @@
 # Installation Guide
 
 ::: tip
-  💬 Having issues? Check [this document](./troubleshooting) or feel free to ask in our [Discord server](https://mcsrranked.com/discord) in the <code>#tech-help</code> channel.
+  💬 Having issues? Check [this document](./faq) or feel free to ask in our [Discord server](https://mcsrranked.com/discord) in the <code>#tech-help</code> channel.
 :::
 
 You can play with the MCSR Ranked mod on most popular launchers.
