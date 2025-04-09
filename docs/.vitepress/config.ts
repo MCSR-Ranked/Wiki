@@ -35,7 +35,6 @@ export default defineConfig({
                 { text: 'Minecraft Launcher', link: '/install_vanilla' },
               ]
             },
-            { text: 'Java Upgrade', link: '/java_upgrade' },
             { text: 'Troubleshooting', link: '/troubleshooting' },
           ]
         }
