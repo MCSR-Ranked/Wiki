@@ -16,6 +16,8 @@ For more efficient filtering and usability, the overworld and nether will be fil
 
 *: It is based on the average Elo rate of all players in the match.
 
+In Private Room, each seeds have 20% distribution like 1200+ range.
+
 ## Overworld Types
 
 ### Village
