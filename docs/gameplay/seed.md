@@ -14,7 +14,7 @@ For more efficient filtering and usability, the overworld and nether are filtere
 | 600 ~ 1199 | 30% | 30% | 20% | 20% |  0% |
 | 1200+      | 20% | 20% | 20% | 20% | 20% |
 
-*: Based on the average ELO Rate of all players in the match.
+*: Based on the average Elo Rate of all players in the match.
 
 In Private Room, each seeds have 20% distribution like 1200+ range.
 
