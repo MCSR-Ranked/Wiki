@@ -20,6 +20,25 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/install': [
+        {
+          text: 'Installation',
+          link: '/',
+          base: '/install',
+          items: [
+            { 
+              text: 'Launcher Guide', 
+              items: [
+                { text: 'Prism Launcher / MultiMC', link: '/install_prism' },
+                { text: 'Modrinth App', link: '/install_modrinth' },
+                { text: 'Minecraft Launcher', link: '/install_vanilla' },
+              ]
+            },
+            { text: 'Java Upgrade', link: '/java_upgrade' },
+            { text: 'Troubleshooting', link: '/troubleshooting' },
+          ]
+        }
+      ],
       '/gameplay': [
         {
           text: 'Gameplay',

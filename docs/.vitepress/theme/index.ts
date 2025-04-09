@@ -1,5 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
-import './custom.css'
+import './brand.css'
 
 export default DefaultTheme
