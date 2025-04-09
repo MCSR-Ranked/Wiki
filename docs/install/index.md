@@ -1,7 +1,7 @@
 # Installation Guide
 
 ::: tip
-  💬 Having issues? Check [this document](./troubleshooting) or Feel free to ask in our [Discord server](https://mcsrranked.com/discord) in the <code>#tech-help</code> channel.
+  💬 Having issues? Check [this document](./troubleshooting) or feel free to ask in our [Discord server](https://mcsrranked.com/discord) in the <code>#tech-help</code> channel.
 :::
 
 You can play with the MCSR Ranked mod on most popular launchers.
@@ -18,5 +18,5 @@ You can play with the MCSR Ranked mod on most popular launchers.
 :::
 
 ✅ **Installation Method**:
-- [Download the modpack](https://mcsrranked.com/download) – includes allowed QoL/performance mods  
-- [Download the mod only](https://modrinth.com/mod/mcsr-ranked) – advanced
+- [Download the modpack](./download#modpack) – includes allowed QoL/performance mods  
+- [Download the mod only](./download#mod) – advanced

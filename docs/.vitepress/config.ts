@@ -27,6 +27,7 @@ export default defineConfig({
           link: '/',
           base: '/install',
           items: [
+            { text: 'Download', link: '/download' },
             { 
               text: 'Launcher Guide', 
               items: [
@@ -35,7 +36,6 @@ export default defineConfig({
                 { text: 'Minecraft Launcher', link: '/install_vanilla' },
               ]
             },
-            { text: 'Java Upgrade', link: '/java_upgrade' },
             { text: 'Troubleshooting', link: '/troubleshooting' },
           ]
         }
