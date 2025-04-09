@@ -2,12 +2,12 @@
 
 Thank you for your interest in this project :)
 
-These documents explains the guidelines for contribution and some tips.
+These documents explain the guidelines for contributing and provide some tips.
 
-Before you begin, you must have a GitHub account. if you don't, [create GitHub account](https://github.com/signup).
+Before you begin, you must have a GitHub account. if you don't, [create a GitHub account first](https://github.com/signup).
 
-## Contribute Guides
-- [Contribute Guidelines](./guidelines)
+## Contribution Guides
+- [Contribution Guidelines](./guidelines)
 - [How to Edit the Page](./pull_request)
 - [Request Reviews](./review)
 
