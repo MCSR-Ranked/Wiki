@@ -156,6 +156,8 @@ If you’re on the default launcher:
 
 - Go to Installations, find the installation you’re using and click the “...” button. Click “Edit”, then “More Options”. Copy the path in “Java executable”.
 
+Alternatively, you can follow steps 1-5 of [this guide](https://obsproject.com/kb/minecraft-java-edition-troubleshooting).
+
 ## I have worse performance than expected
 
 This is usually caused by one or more of the following issues:
@@ -396,6 +398,7 @@ Explanation and fix: this crash may be caused by one of the following –
 - Concurrently running programs, such as OBS and Discord, that use the same graphics card as the game.
   - Try using window capture instead of game capture in OBS.
   - Try disabling hardware acceleration in Discord.
+  - If you're on a laptop, [make sure](#use-dgpu) Minecraft is using the dedicated GPU if you have one.
 - A compatibility issue between SpeedrunIGT, Intel Graphics and OpenGL. Enable “safe font mode” in SpeedrunIGT options. If the game crashes before you can access that menu, delete .minecraft/speedrunigt.
 - Driver issues. Check if your drivers are updated, and update them or downgrade them if they're already updated.
 
