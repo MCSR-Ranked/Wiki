@@ -54,6 +54,7 @@ export default defineConfig({
               ]
             },
             { text: 'Match-Making', link: '/matchmaking' },
+            { text: 'Achievements', link: '/achievements' },
           ]
         }
       ],
