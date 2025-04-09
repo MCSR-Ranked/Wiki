@@ -79,7 +79,7 @@ export default defineConfig({
           link: '/',
           base: '/contribute',
           items: [
-            { text: 'Contribute Guidelines', link: '/guidelines' },
+            { text: 'Contribution Guidelines', link: '/guidelines' },
             {
               text: 'Contribute on Page',
               items: [
