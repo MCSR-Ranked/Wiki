@@ -1,14 +1,9 @@
 # Installation with Modrinth App
 
-## Setup the Launcher
-TO-DO
-
-## Login Your Microsoft Account
-TO-DO
-
 ## Add Instance
-TO-DO
+We recommend using the official modpack, which includes other allowed QoL and performance mods. Download it from [here](./download#modpack).
 
-## (Advanced) Upgrade Your Java
-Check [this document](./java_upgrade) and follow these steps.
-1. TO-DO
+Then, open Modrinth App, and go to `Create New Instance`, select `From File`, and choose the `.mrpack` file. Finally, launch your new instance.
+
+## (Advanced) Update Java
+TO-DO
