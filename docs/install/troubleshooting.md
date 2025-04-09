@@ -392,6 +392,20 @@ Fix:
 
 - Assuming the memory leak is caused by Sodium, replace Sodium with a version downloaded from [this website](https://mods.tildejustin.dev/) after selecting Mac.
 
+## Resizing the window to a large height
+
+Symptoms in the log file:
+
+- "java.lang.RuntimeException: GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT"
+
+Explanation:
+
+- Depending on your hardware, resizing the Minecraft window past a certain height will make it crash.
+
+Fix:
+
+- If you're using Jingle for it, reduce the height in Jingle -> Scripts -> Resizing.
+
 ## JVM crash
 
 Symptoms in the log file:
