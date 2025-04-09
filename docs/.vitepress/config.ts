@@ -54,6 +54,9 @@ export default defineConfig({
               ]
             },
             { text: 'Match-Making', link: '/matchmaking' },
+            { text: 'Private Rooms', link: '/private_rooms' },
+            { text: 'Weekly Race', link: '/weekly_race' },
+            { text: 'Achievements', link: '/achievements' },
           ]
         }
       ],
