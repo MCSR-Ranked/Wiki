@@ -16,7 +16,8 @@ export default defineConfig({
     nav: [
       { text: 'Install', link: '/install' },
       { text: 'Gameplay', link: '/gameplay' },
-      { text: 'Playoffs', link: '/playoffs' }
+      { text: 'Playoffs', link: '/playoffs' },
+      { text: 'Contribute', link: '/contribute' }
     ],
 
     sidebar: {
@@ -67,6 +68,23 @@ export default defineConfig({
               items: [
                 { text: 'Phase Point System', link: '/phase_point' },
                 { text: 'Midseason Showdown', link: '/midseason_showdown' }
+              ]
+            }
+          ]
+        },
+      ],
+      'contribute': [
+        { 
+          text: 'Contribute',
+          link: '/',
+          base: '/contribute',
+          items: [
+            { text: 'Contribute Guidelines', link: '/guidelines' },
+            {
+              text: 'Contribute on Page',
+              items: [
+                { text: 'Edit the Page', link: '/pull_request' },
+                { text: 'Request Reviews', link: '/review' }
               ]
             }
           ]
