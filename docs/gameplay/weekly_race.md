@@ -12,5 +12,6 @@ There are two modes available:
 -	Standard mode (runs will count on the leaderboard)
   
 ## Other Information
-- A new race is created every Monday at 1am GMT
+- A new race is created every Monday at 1am GMT.
 - You can earn achievements and badges for placing highly in weekly races.
+- There is a weekly race channel in our discord where strategy discussions often take place.
