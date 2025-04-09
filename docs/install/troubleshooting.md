@@ -212,9 +212,11 @@ E.g.:
   <img src="./img/chunk_multidraw.png" alt="Logo" style="display: block; margin: 0 auto;">
 </div>
 
-In the title screen, go to Options > Video Settings > Advanced and disable Chunk Multi-Draw.
+In the title screen, go to Options > Click the Book & Quill (top right) > Sodium and disable "Use Chunk Multi-Draw".
 
-- Note: Chunk Multidraw is a Sodium option that boosts performance. On a small percentage of GPUs, it will cause this issue, so you will have to disable it if you’re having this issue.
+::: info
+  Chunk Multidraw is a Sodium option that boosts performance. On a small percentage of GPUs, it will cause this issue, so you will have to disable it if you’re having this issue.
+:::
 
 ## I can’t increase my render distance beyond 16 (or some other number)
 
