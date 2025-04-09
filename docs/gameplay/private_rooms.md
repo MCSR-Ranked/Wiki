@@ -1,3 +1,3 @@
-# Private Rooms and Matches
+# Private Rooms
 
 TO-DO
