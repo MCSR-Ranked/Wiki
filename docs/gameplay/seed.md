@@ -8,7 +8,7 @@ MCSR Ranked uses its own Seed Filter to select vanilla seeds which satisfy certa
 For more efficient filtering and usability, the overworld and nether are filtered via independent seeds. Therefore, strategies that can infer some RNG in the Nether, such as the Divine Travel strategy, will not work.
 
 ## Seed Type Distribution
-| ELO*       | Village | Shipwreck | Desert Temple | Ruined Portal | Buried Treasure |
+| Elo*       | Village | Shipwreck | Desert Temple | Ruined Portal | Buried Treasure |
 | :--------: | :-----: | :-------: | :-----------: | :-----------: | :-------------: |
 | 0 ~ 599    | 55% | 30% | 15% |  0% |  0% |
 | 600 ~ 1199 | 30% | 30% | 20% | 20% |  0% |
