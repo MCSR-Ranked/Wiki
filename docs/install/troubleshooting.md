@@ -1,10 +1,12 @@
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/logo.png" alt="Logo" width="200" style="display: block; margin: 0 auto;">
+</div>
 
-Click the “document outline” icon on the left, or just Ctrl-F, to search through this document.
+Check the table of contents on the right, or just Ctrl-F, to search through this document.
 
 This document will focus on issues affecting Prism Launcher, MultiMC and other launchers, but you’re strongly advised to use Prism or MultiMC.
 
-Credit to ataraxia1339 for writing the original version of this document.
+Credit to Ataraxia for writing the original version of this document.
 
 ::: tip
   💬 Having issues? Feel free to ask in our [Discord server](https://mcsrranked.com/discord) in the <code>#tech-help</code> channel.
@@ -20,9 +22,10 @@ Credit to ataraxia1339 for writing the original version of this document.
   - Since most speedrunners run on Minecraft 1.16.1, this mod is developed for 1.16.1. It will not work in other versions of Minecraft.
 - The ranked menu looks like this in-game:
 
-&lt;img&gt;
-
-&lt;img&gt;
+<div style="display: flex; gap: 2rem; justify-content: center; align-items: center;">
+  <img src="./img/title_screen.png" alt="Title Screen" width="300">
+  <img src="./img/ranked_menu.png" alt="Ranked Menu" width="342">
+</div>
 
 ## How do I set up Ranked?
 
@@ -108,20 +111,26 @@ If you’re on Prism or MultiMC:
 
 - Go to Settings > Java and set the maximum memory allocation to somewhere around 3000.
 
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/ram_guide_mmc.png" alt="Logo" style="display: block; margin: 0 auto;">
+</div>
 
 If you’re on the default launcher (though the default RAM allocation is fine):
 
 1. Go to Installations, find the installation you’re using and click the “...” button. Click “Edit”.
 
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/ram_guide_vanilla_1.png" alt="Logo" style="display: block; margin: 0 auto;">
+</div>
 
 1. Click “More Options”, then adjust the number after -Xmx.
     - You can change “G” to “M” to edit in terms of MB instead of GB.
 
-&lt;img&gt;
-
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/ram_guide_vanilla_2.png" alt="Logo" style="display: block; margin: 0 auto;">
+  <br>
+  <img src="./img/ram_guide_vanilla_3.png" alt="Logo" style="display: block; margin: 0 auto;">
+</div>
 
 Do not allocate too much RAM since [it may cause lag spikes](https://vazkii.net/blog_archive/"%20\l%20"blog/ram-explanation).
 
@@ -131,7 +140,9 @@ On Windows:
 
 1. Press the Start button and type “Graphics settings”. Under Graphics performance preference, click “Browse”.
 
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/gpu_guide.png" alt="Logo" style="display: block; margin: 0 auto;">
+</div>
 
 1. Select the javaw.exe that Minecraft is using, and set it to “High performance”.
 
@@ -187,11 +198,13 @@ Go to Options > Video Settings and set your Entity Distance to 500%.
 
 E.g.:
 
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/chunk_multidraw.png" alt="Logo" style="display: block; margin: 0 auto;">
+</div>
 
 In the title screen, go to Options > Video Settings > Advanced and disable Chunk Multi-Draw.
 
-- Note: Chunk Multi-Draw is a sodium option that boosts performance. On a small percentage of GPUs, it will cause this issue, so you will have to disable it if you’re having this issue.
+- Note: Chunk Multidraw is a Sodium option that boosts performance. On a small percentage of GPUs, it will cause this issue, so you will have to disable it if you’re having this issue.
 
 ## I can’t increase my render distance beyond 16 (or some other number)
 
@@ -199,7 +212,7 @@ In the title screen, go to Options > Video Settings > Advanced and disable Chunk
 
 ## Blocks don’t drop / entities are frozen
 
-(also referred to as an “internal server crash”; I’ve put it in this section because the game doesn’t force quit like most crashes)
+(also referred to as an “internal server crash”; it's in this section because the game doesn’t force quit like most crashes)
 
 This is known as a ghost nether or phantom nether, and usually occurs when you change dimensions. Once you get this, there’s nothing you can do about it, since you’ve basically crashed (so you’ll need to restart Minecraft).
 
@@ -219,9 +232,7 @@ Figure out a way to [toggle Fn-lock on your pc](https://mspoweruser.com/differen
 
 ## How do I access the timer settings?
 
-Click the ender pearl icon in Options.
-
-&lt;img&gt;
+Go to Options -> Click the Book & Quill (top right) -> SpeedRunIGT.
 
 ## Can I practice seeds filtered with this mod?
 
@@ -231,15 +242,19 @@ You’ll have to practice by playing in matches (ranked, casual, or private room
 
 If Minecraft crashes, you should send the log file and/or the crash report in #tech-help (in the [Ranked discord server](https://discord.gg/nnjUSyDErj)).
 
-- If you’re on Prism or MultiMC, a console window will open when the game crashes. Click “Upload” to upload the log to a paste.ee/mclo.gs link, then copy the link and send it in #tech-help. It will contain both latest.log and the crash report, as well as more additional information.
+- If you’re on Prism or MultiMC, a console window will open when the game crashes. Click “Upload” to upload the log to a paste.ee/mclo.gs link, then copy the link and send it in #tech-help. It will contain both latest.log and the crash report, as well as more additional information:
 
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/MfrJwcM.png" alt="Logo" width="500" style="display: block; margin: 0 auto;">
+</div>
 
-- If you’re on a different launcher, [go to your .minecraft folder](#find-minecraft) > logs and select latest.log. Send this file in #tech-help.
+- If you’re on a different launcher, [go to your .minecraft folder](#find-minecraft) > logs and select latest.log. Send this file in #tech-help:
 
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/latest_log.png" alt="Logo" width="500" style="display: block; margin: 0 auto;">
+</div>
 
-- The crash report can be found in .minecraft/crash-reports, with the date of the crash in its file name. It contains a little more information about the crash itself, but the log file is usually sufficient to diagnose issues.
+- The crash report can sometimes be found in .minecraft/crash-reports, with the date of the crash in its file name. It contains a little more information about the crash itself, but the log file is usually sufficient to diagnose issues.
 - If there’s an error message, sending a screenshot of that would be helpful too, in case there isn’t a crash report generated.
 
 The following sections will go through common crashes. “Symptoms” means things to look for if you’re not sure what crash it is.
@@ -251,12 +266,6 @@ Symptoms in the log file:
 - “Java is version 1.8” under “Checking Java version…”
 - “- java 8” under “Loading mods”
 - “UnsupportedClassVersionError” followed by “has been compiled by a more recent version of the Java Runtime”
-
-Other symptoms:
-
-- In the default launcher: Error message mentioning “Exit code 1”, sometimes mentioning an “Invalid Java Runtime configuration”
-
-&lt;img&gt;
 
 Explanation:
 
@@ -286,7 +295,9 @@ Symptoms:
 
 - In the default launcher: Error message mentioning “Your Java Runtime is incompatible. Please edit your installation to use the bundled Java Runtime. Name: Java version mismatch”
 
-&lt;img&gt;
+<div style="text-align:center;">
+  <img src="./img/javacheck.png" alt="Logo" width="500" style="display: block; margin: 0 auto;">
+</div>
 
 - In Prism launcher: “This instance is not compatible with Java version…”
 
@@ -419,6 +430,6 @@ Fix:
 - Check if your firewall/antivirus is blocking mcsrranked.com.
 - If it’s not a firewall/antivirus issue, [change your DNS provider](https://developers.google.com/speed/public-dns/docs/using"%20\l%20"windows) or use a VPN.
 
-# Exit codes
+## Exit codes
 
 Exit codes in log files usually aren’t sufficient to diagnose the problem.
