@@ -59,15 +59,18 @@ export default defineConfig({
       ],
       'playoffs': [
         { 
-          text: 'Playoffs',
+          text: 'Introduction',
           link: '/',
           base: '/playoffs',
           items: [
+            { text: 'Rules', link: '/rules' },
+            { text: 'Phase Point', link: '/phase_point' },
             {
-              text: 'Phase Point',
+              text: 'MCSR Ranked Playoffs',
               items: [
-                { text: 'Phase Point System', link: '/phase_point' },
-                { text: 'Midseason Showdown', link: '/midseason_showdown' }
+                { text: 'Main Bracket (Playoffs)', link: '/bracket' },
+                { text: 'Last-Chance Qualifiers', link: '/last_chance_qualifiers' },
+                { text: 'Midseason Showdown', link: '/midseason_showdown' },
               ]
             }
           ]
