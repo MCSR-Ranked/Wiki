@@ -1,0 +1,31 @@
+.launcher-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.launcher-card {
+  background-color: var(--vp-c-bg-soft);
+  border: 2px solid var(--vp-c-brand-1);
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.launcher-card:hover {
+  background-color: var(--vp-c-bg);
+}
+
+.launcher-card h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.top-banner {
+  margin-top: 2rem;
+}
+
+.VPDoc h2 {
+  margin-top: 1rem;
+}
