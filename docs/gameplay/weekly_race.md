@@ -13,7 +13,7 @@ There are three modes available:
 -	Ghost mode (You will see an outline of the runner from the run that you selected, which allows you to pace yourself against another player. Runs still count on the leaderboard)
   
 ## Other Information
-- A new race is created every Monday at 1am GMT.
+- A new race is created every Monday at 12am UTC.
 - Ghost mode is activated by clicking on a run in the menu before pressing start to start your run.
 - You can earn achievements and badges for placing highly in weekly races.
 - There is a weekly race channel in our discord where strategy discussions often take place.
