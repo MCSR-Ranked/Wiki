@@ -22,14 +22,11 @@ Credit to Ataraxia for writing the original version of this document.
   - Since most speedrunners run on Minecraft 1.16.1, this mod is developed for 1.16.1. It will not work in other versions of Minecraft.
 - The ranked menu looks like this in-game:
 
-<div style="display: flex; gap: 2rem; justify-content: center; align-items: center;">
-  <img src="./img/title_screen.png" alt="Title Screen" width="300">
-  <img src="./img/ranked_menu.png" alt="Ranked Menu" width="342">
-</div>
+![](./img/title_menu.png)
 
 ## How do I set up Ranked?
 
-See [the installation guide](./install) for instructions.
+See [the installation guide](./index) for instructions.
 
 ## I have the mods but they don’t show up in-game (I don’t see the ranked button)
 
