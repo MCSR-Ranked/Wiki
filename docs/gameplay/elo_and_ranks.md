@@ -9,11 +9,12 @@ MCSR Ranked has an Elo Rating system, much like [chess](https://www.chess.com/te
 Upon account creation, players start with 1000 Elo. They can increase their Elo by winning, or decrease it by losing. Depending on the elo of your opponent, you can gain or lose more elo than usual.
 
 ![Example of Elo change](./img/elo_change.png)
+
 *Redlime gains less Elo than the standard 20, since his opponent had less Elo than him.*
 
 ## Placement Matches
 
-A player's first 5 matches are placement matches designed to predict their Elo rating. During these matches, the player's Elo is hidden, and their Elo gain or loss is doubled as a result of these matches.
+A player's first 5 matches are placement matches designed to predict their Elo rating. During these matches, the player's Elo is hidden.
 
 ## Elo Decay
 
@@ -34,21 +35,23 @@ The playerbase is separated into 6 Ranks.
 
 They are further separated into Divisions as follows:
 
-![Ranks and their divisions](./img/ranks_divisions.webp)
+![Ranks and their divisions](./img/ranks_divisions.png)
 
 ## Seasons and Phases
 
 On a season end, all players with Elo above 1200 will have their Elo "reset" according to this formula:
 $$
-E' = \frac{\max(E - 1200, 0)}{2} + E
+E' = \max(E - 1200, 0) \times 0.25 + E
 $$
-In English, players below 1200 Elo are unaffected. Any extra Elo above 1200 that a player has is halved. For example:
+In English, players below 1200 Elo are unaffected. Any extra Elo above 1200 that a player has is quartered. For example:
 ```
 Old Elo => New Elo
    1100 => 1100
-   1300 => 1250
-   1500 => 1350
-   2200 => 1600
+   1300 => 1225
+   1600 => 1300
+   2200 => 1450
 ```
+
+Players become unranked and have to play one match to receive their new Elo.
 
 Seasons are separated by (usually) 4 phases, each a month long. See all about the phase system here: [Phase Points](../playoffs/phase_point.md)
