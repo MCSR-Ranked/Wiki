@@ -52,6 +52,6 @@ Old Elo => New Elo
    2200 => 1450
 ```
 
-Players become unranked and have to play one match to receive their new Elo.
+Players become unranked and have to play 5 matches to receive their new Elo.
 
 Seasons are separated by (usually) 4 phases, each a month long. See all about the phase system here: [Phase Points](../playoffs/phase_point.md)
