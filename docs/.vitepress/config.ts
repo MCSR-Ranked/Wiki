@@ -53,6 +53,7 @@ export default defineConfig({
                 { text: 'RNG Standardization', link: '/rng' },
               ]
             },
+            { text: 'Elo & Ranks', link: '/elo_and_ranks' },
             { text: 'Match-Making', link: '/matchmaking' },
             { text: 'Private Rooms', link: '/private_rooms' },
             { text: 'Weekly Race', link: '/weekly_race' },
