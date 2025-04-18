@@ -1,9 +1,6 @@
-// document.addEventListener('vitepress:afterRouteChanged', () => {
-// Select all footnote references and footnotes
 const footnoteRefs = document.querySelectorAll(".footnote-ref");
 const footnotes = document.querySelectorAll(".footnotes li");
 
-// Create a map of footnote ID to content
 const footnoteMap = new Map();
 footnotes.forEach((footnote) => {
     const idMatch = footnote.id.match(/^fn(\d+)$/);
@@ -14,7 +11,6 @@ footnotes.forEach((footnote) => {
     }
 });
 
-// Add the footnote content as a title attribute or wrap in <abbr>
 footnoteRefs.forEach((ref) => {
     const idMatch = ref.getElementsByTagName('a')[0].id.match(/^fnref(\d+)$/);
     if (!idMatch) return;
@@ -61,4 +57,3 @@ noteElements.forEach((el) => {
         tooltip.style.opacity = "0";
     });
 });
-// });
