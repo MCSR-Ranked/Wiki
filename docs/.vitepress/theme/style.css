@@ -29,11 +29,11 @@
   line-height: 1.5em;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 0.7em;
+  font-size: 0.85em;
 }
 
 .footnote-item::marker {
-  font-size: 0.7em;
+  font-size: 0.85em;
 }
 
 .footnote-tooltip {
