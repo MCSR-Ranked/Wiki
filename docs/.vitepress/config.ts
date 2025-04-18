@@ -1,4 +1,5 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
+import underlinePlugin from './plugins/underline';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -121,5 +122,11 @@ export default defineConfig({
   },
 
   cleanUrls: true,
-  lastUpdated: true
+  lastUpdated: true,
+
+  markdown: {
+    config(md) {
+      md.use(underlinePlugin)
+    },
+  }
 })

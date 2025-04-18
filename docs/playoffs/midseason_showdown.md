@@ -1,6 +1,6 @@
 # Midseason Showdown
 The Midseason Showdown will be a one-day event.
-All players with **<u>15+ phase points</u>** by the end of [Phase 3](./phase_point) will be automatically invited. 
+All players with **__15+ phase points__** by the end of [Phase 3](./phase_point) will be automatically invited. 
 By the end of the event, the top 10 players will earn [between 5 and 20 phase points](#rewards-distibution), which increase their chances of being invited to the next [Playoffs](./bracket). 
 Having 4 winners simulates the qualifier format at the end of the season.
 Learn more about the phase point system [here](./phase_point).
@@ -11,14 +11,14 @@ At the end of some seeds, players will be eliminated based on the amount of poin
 
 - Seed 1 - No Eliminations
 - Seed 2 - No Eliminations
-- Seed 3 - <u>**All players with 0 points are eliminated**</u>
+- Seed 3 - __**All players with 0 points are eliminated**__
 - Seed 4 - No Eliminations
-- Seed 5 - <u>**Bottom 50% of remaining players are eliminated**</u>
+- Seed 5 - __**Bottom 50% of remaining players are eliminated**__
 - Seed 6 - No Eliminations
-- Seed 7 - <u>**Only top 10 total points move on**</u>
-- Seed 8 - <u>**Top 8 total points move on**</u>
-- Seed 9 - <u>**Top 6 total points move on**</u>
-- Seed 10 - <u>**Top 4 total points win!**</u>
+- Seed 7 - __**Only top 10 total points move on**__
+- Seed 8 - __**Top 8 total points move on**__
+- Seed 9 - __**Top 6 total points move on**__
+- Seed 10 - __**Top 4 total points win!**__
 
 In the event of a point tie that disrupts an elimination (ex. 10th and 11th are tied after seed 7), all involved players will move on to the next round, but the next elimination will remain unchanged. In the rare case there is a tie for last after seed 10, a sudden death seed will be played.
 
