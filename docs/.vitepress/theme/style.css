@@ -23,3 +23,29 @@
   position: relative;
   top: 0.025em;
 }
+
+
+.footnote-item p {
+  line-height: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 0.7em;
+}
+
+.footnote-item::marker {
+  font-size: 0.7em;
+}
+
+.footnote-tooltip {
+  position: fixed;
+  background-color: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-border);
+  padding: 0.05em 0.4em;
+  max-width: 60vw;
+  white-space: normal;
+  word-wrap: break-word;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}

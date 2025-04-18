@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress';
 import underlinePlugin from './plugins/underline';
+import markdownItFootnote from 'markdown-it-footnote';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,7 +9,8 @@ export default defineConfig({
   base: '/',
 
   head: [
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', { rel: 'icon', href: '/icon.png' }],
+    ['script', { src: "/scripts/footnotes.js" }]
   ],
 
   themeConfig: {
@@ -126,7 +128,8 @@ export default defineConfig({
 
   markdown: {
     config(md) {
-      md.use(underlinePlugin)
+      md.use(underlinePlugin);
+      md.use(markdownItFootnote);
     },
   }
 })

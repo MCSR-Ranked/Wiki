@@ -12,7 +12,11 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
+    "@types/markdown-it-footnote": "^3.0.4",
     "vitepress": "^1.6.3"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "markdown-it-footnote": "^4.0.0"
+  }
 }
