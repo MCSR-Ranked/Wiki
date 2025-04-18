@@ -9,8 +9,7 @@ export default defineConfig({
   base: '/',
 
   head: [
-    ['link', { rel: 'icon', href: '/icon.png' }],
-    ['script', { src: "/scripts/footnotes.js" }]
+    ['link', { rel: 'icon', href: '/icon.png' }]
   ],
 
   themeConfig: {
