@@ -131,5 +131,6 @@ export default defineConfig({
       md.use(underlinePlugin);
       md.use(markdownItFootnote);
     },
+    math: true
   }
 })

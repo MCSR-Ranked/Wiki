@@ -17,6 +17,7 @@
   },
   "type": "module",
   "dependencies": {
-    "markdown-it-footnote": "^4.0.0"
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mathjax3": "^4.3.2"
   }
 }
