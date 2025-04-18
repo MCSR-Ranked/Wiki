@@ -91,6 +91,7 @@ export default defineConfig({
           base: '/contribute',
           items: [
             { text: 'Contribution Guidelines', link: '/guidelines' },
+            { text: 'Markdown Format', link: '/markdown' },
             {
               text: 'Contribute on Page',
               items: [
