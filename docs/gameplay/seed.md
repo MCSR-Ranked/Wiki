@@ -22,6 +22,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Village
 - Spawns within 7 chunks
+  - Always generated at positive coordinates for X and Y
 - Contains a guaranteed Blacksmith
 - 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with blacksmith lava
 - Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
@@ -31,6 +32,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Shipwreck
 - Spawns within 4 chunks
+  - Always generated at positive coordinates for X and Y
 - 2 Magma Ravines within 10 chunks of the Shipwreck
 - At least 7 Iron (or 4 Iron + 3 Diamonds) and some food in food chest
 - Suspicious stew CANNOT be poison
@@ -39,6 +41,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Desert Temple
 - Spawns within 5 chunks
+  - Always generated at positive coordinates for X and Y
 - 3 lava pools guaranteed near to the temple
 - Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
 - At least 7 Iron (or 4 Iron + 3 Diamonds)
@@ -47,6 +50,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Ruined Portal
 - Spawns within 3 chunks
+  - Always generated at positive coordinates for X and Y
 - Enterable with Obsidian or Bucket (50/50)
 - There's a chance that there won’t be enough Iron for an Iron Pickaxe
 - Food in chest or animals within 5 chunks with a Flint and Steel / Fire Aspect Sword
@@ -55,6 +59,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Buried Treasure
 - Spawns within 5 chunks
+  - Always generated at positive coordinates for X and Y
 - 2 Magma Ravines within 10 chunks of the Buried Treasure
 - At least 7 Iron (or 4 Iron + 3 Diamonds)
 - No other buried treasures, shipwrecks, or irrelevant block entities near spawn (i.e dungeons)
