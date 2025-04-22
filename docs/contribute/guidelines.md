@@ -4,7 +4,7 @@ This page tells you everything you need to know to write a solid wiki page.
 
 ## Format and Layout
 
-Pages should be broken up into sections defined with hashtags (`## Format and Layout`). Long paragraphs should be avoided. A template to guide new pages can be found at [Page Template](./page_template).
+Pages should be broken up into sections defined with hashtags (`## Format and Layout`). Long paragraphs should be avoided.
 
 ## Simple Prose
 
@@ -14,4 +14,4 @@ Sometimes words don't do a concept justice. Supporting images go a long way - th
 
 ## A Single Source of Truth
 
-Duplicate information will make this wiki difficult to maintain when that information needs updating. Reference the page where reasonable, like this: `[Page Template](./page_template)`. Whenever moving or renaming a page, ensure any references to the page are updated.
+Duplicate information will make this wiki difficult to maintain when that information needs updating. Reference the page where reasonable. Whenever moving or renaming a page, ensure any references to the page are updated.
