@@ -16,10 +16,26 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon.png',
     nav: [
-      { text: 'Install', link: '/install' },
-      { text: 'Gameplay', link: '/gameplay' },
-      { text: 'Playoffs', link: '/playoffs' },
-      { text: 'Contribute', link: '/contribute' }
+      { 
+        text: 'Install',
+        link: '/install',
+        activeMatch: '/install'
+      },
+      { 
+        text: 'Gameplay', 
+        link: '/gameplay',
+        activeMatch: '/gameplay'
+      },
+      { 
+        text: 'Playoffs',
+        link: '/playoffs',
+        activeMatch: '/playoffs'
+      },
+      { 
+        text: 'Contribute', 
+        link: '/contribute',
+        activeMatch: '/contribute'
+      }
     ],
 
     sidebar: {
