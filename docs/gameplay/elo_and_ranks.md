@@ -41,7 +41,7 @@ They are further separated into Divisions as follows:
 
 On a season end, all players with Elo above 1200 will have their Elo "reset" according to this formula:
 $$
-E' = \max(E - 1200, 0) \times 0.25 + E
+E' =  + \min(E, 1200 + (E - 1200) \times 0.25)
 $$
 In English, players below 1200 Elo are unaffected. Any extra Elo above 1200 that a player has is quartered. For example:
 ```
