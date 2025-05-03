@@ -31,7 +31,7 @@ For more information on the seed types, check [here](/gameplay/seed#overworld-ty
 At the beginning of each round, the lower-seeded player bans one of the 5 seed types, and the higher-seeded player bans one of the remaining 4. Banned seeds cannot be played in that match. However, in the Grand Finals, if the winner has not been determined after the 5th seed, a banned seed may be picked.
 
 ### Pick
-Before starting each seed, the player who lost the previous seed will choose the next seed. If it is the first seed of the match, the higher-seeded player will choose. Seeds that are banned or have already been played in the same match cannot be picked. However, in the Grand Finals, if the winner has not been determined after the 5th seed, players may pick a seed that was already played from the previous five.
+Before starting each seed, the player who lost the previous seed will choose the next seed. If it is the first seed of the match, the higher-seeded player will choose. Seeds that are banned or have already been played in the same match cannot be picked. However, in the Grand Finals, if the winner has not been determined after the 5th seed, players may pick a seed that was already played from the previous 5 seeds.
 
 ### Summary
 To summarize, the seed ban and pick process is as follows:
