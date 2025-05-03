@@ -6,10 +6,10 @@ It will follow a 1v1 single-elimination format.
 ## Seeding System
 At the end of the season, the 12 players with the most **_phase points_** will be automatically invited and seeded 1 through 12 accordingly. Four additional players, seeded 13 through 16, will qualify through the [Last-Chance Qualifiers](./last_chance_qualifiers). Learn more about the phase point system [here](./phase_point).
 
-Players seeded 1 through 7 will each choose their opponent from a pool of 8 players, which includes seeded 9 through 12 and the 4 players who qualified through the [Last-Chance Qualifiers](./last_chance_qualifiers). The one remaining unchosen player will be automatically assigned to the player seeded 8.
+Players seeded 1 through 7 will each choose their opponent from a pool of 8 players, which includes players seeded 9 through 12 and the 4 players who qualified through the [Last-Chance Qualifiers](./last_chance_qualifiers). The final unchosen player will be automatically assigned to the player seeded 8.
 
 ## Rounds
-The bracket consists of four rounds. In each round, both players will play the same seed simultaneously, and the player who makes completion first will take the seed.
+The bracket consists of four rounds. In each round, both players will play the same seed simultaneously, and the player who completes the game first will take the seed.
 
 Match formats for each round are as follows:
 - Round of 16: First to take **3** seeds (**Best of 5**)
@@ -31,7 +31,7 @@ For more information on the seed types, check [here](/gameplay/seed#overworld-ty
 At the beginning of each round, the lower-seeded player bans one of the 5 seed types, and the higher-seeded player bans one of the remaining 4. Banned seeds cannot be played in that match. However, in the Grand Finals, if the winner has not been determined after the 5th seed, a banned seed may be picked.
 
 ### Pick
-Before starting each seed, the player who lost the previous seed will choose the next seed. If it is the first seed of the match, the higher-seeded player will choose. Seeds that are banned or have already been played in the same match cannot be picked. However, in the Grand Finals, if the winner has not been determined after the 5th seed, players may pick a seed that was already played from the previous 5 seeds.
+Before starting each seed, the player who lost the previous seed will choose the next seed. The first seed of the match will be chosen by the higher-seeded player. Seeds that are banned or have already been played in the same match cannot be picked. However, in the Grand Finals, if the winner has not been determined after the 5th seed, players may pick a seed that has already been played from the previous 5 seeds.
 
 ### Summary
 To summarize, the seed ban and pick process is as follows:
