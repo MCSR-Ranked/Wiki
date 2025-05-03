@@ -16,7 +16,7 @@ Match formats for each round are as follows:
 - Quarterfinals: First to take **3** seeds (**Best of 5**)
 - Semifinals: First to take **3** seeds (**Best of 5**)
 - 3rd Place: First to take **3** seeds (**Best of 5**)
-- Grand Finals: First to take **5** seeds (**Best of 7**)
+- Grand Finals: First to take **4** seeds (**Best of 7**)
 
 As shown in the bracket below, all matchups after the Round of 16 are automatically determined based on the fixed structure. The bracket progresses without any further opponent selection.
 
