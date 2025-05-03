@@ -1,9 +1,9 @@
 # MCSR Ranked Playoffs Official Rules
-- Last Update: Aug 22, 2024
+- Last Update: May 02, 2025
 
 ## General Tournament Rules
 1. The MCSR Ranked Playoffs (referred to as simply Playoffs) is a 16 player single elimination bracket tournament played using the official MCSR Ranked Minecraft mod.
-2. All guidelines of play from the [official MCSR Ranked website](https://mcsrranked.com/guidelines) apply to the Playoffs.
+2. All guidelines of play from the [Official MCSR Ranked website](https://mcsrranked.com/guidelines) apply to the Playoffs.
     - Additionally, players must use absolutely no outside assistance from other players, streams, Twitch chats, discord channels, etc. during each played seed of the Playoffs. Players must be in the appropriate Discord stage channel for the entire duration of their match.
     - Players may interact with outside sources of information during intermissions and breaks between seeds.
 3. The Playoffs will be played on the latest official release of the MCSR Ranked mod unless otherwise stated. Normal MCSR Ranked rules will apply to each Playoffs seed and match, with the exception of the following changes:
@@ -13,7 +13,7 @@
 4. Scheduling for the Playoffs will be communicated as early as possible and will generally follow the rules below.
     - The Playoff Qualifiers (referred to as simply Qualifiers) will be held on a Saturday following the ending of the current MCSR Ranked season.
     - The Playoff Bracket (referred to as simply Bracket) will be held over the next two weekends following the Qualifiers.
-    - The first weekend will contain four best-of-5 matches on both Saturday and Sunday - Rounds 1 and 2 of the Bracket.
+    - The first weekend will contain four best-of-5 matches on both Saturday and Sunday - combining to form the Round of 16 of the Bracket.
     - The second weekend will contain the rest of the Bracket matches. Saturday will have all four Quarterfinals best-of-5 matches, and Sunday will have both Semifinals best-of-5 matches, the best-of-5 Third Place Match, and the best-of-7 Grand Finals match.
 5. Players will be required to be available for the full duration of all dates of the Playoffs for ease of scheduling matches.
 6. Players will also be required to participate in media sessions when asked.
@@ -30,11 +30,8 @@
     - The sole exception to this rule is a technological issue affecting the player’s ability to participate in the private room (e.g. internet issues). The issue must be communicated to the Playoffs officials as soon as possible, and then appropriate actions to fix the problem will be taken.
 3. Players can have the main Playoffs stream open only after they have completed a seed (and are waiting for other players to do so) and/or during seed breaks.
 4. Once a player is eliminated (at seeds 3, 5, or 7+), they are free to leave. If a player makes it to the final four and qualifies, they will be contacted shortly to schedule their upcoming Bracket matches.
+5. __Players seeded 1 through 8 in the bracket must be available at the end of the Qualifiers stream__. These players will be able to pick their preferred bracket opponent from the remaining eight qualified players. These picks will go in seed order (seed 1 will pick first from the eight players, then seed 2 will pick from the remaining seven players, etc.). These picks will be broadcasted live on the Qualifiers stream.
 
 ## [Bracket](./bracket) Rules
-1. Each Bracket match will operate on a no-break schedule. After each seed, there will be a couple minutes of split analysis and seed selection analysis before the next seed will commence. Additionally, seed 2 (and potentially seed 4 and seed 6) will be followed by an analysis segment, usually lasting 3-5 minutes. These downtime periods are more than enough time for any short interruptions a player may have during their bracket match. Thus, no breaks will be permitted during a Bracket match. Each seed will start soon after the previous seed is completed, and the Playoffs referee will provide updates on the each seed’s precise start time. Players may also pull up the main stream in between seeds to help keep themselves on schedule.
+1. Each Bracket match will operate on a **no-break** schedule. After each seed, there will be a couple minutes of split analysis and seed selection analysis before the next seed will commence. Additionally, certain seeds will be followed by an analysis segment, usually lasting 3-5 minutes. These downtime periods are more than enough time for any short interruptions a player may have during their bracket match. Thus, no breaks will be permitted during a Bracket match. Each seed will start soon after the previous seed is completed, and the Playoffs referee will provide updates on each seed’s precise start time. Players may also pull up the main stream in between seeds to help keep themselves on schedule.
     - The sole exception to this rule is a technological issue affecting the player’s ability to participate in the private room (e.g. internet issues). The issue must be communicated to the Playoffs officials as soon as possible, and then appropriate actions to fix the problem will be taken.
-2. Players seeded into the bracket in seeds 5 through 8 do not play on Day 1 of the Bracket, but are required to be present during the end of the Day 1 Bracket stream. The Day 2 Bracket requires players in seeds 5 through 8 to pick their opponent. These players will need to be available on a Discord voice call immediately after the Day 1 Bracket final match concludes to pick their opponents. Players will pick their desired Day 2 Bracket opponent live on a Discord voice call on stream. Players will then have a couple minutes to talk about their decision if they wish.
-    - If a player is not available to pick during this time for whatever reason, please let the Playoffs organizers know as soon as possible.
-3. Similar to above, players seeded into the bracket in seeds 1 through 4 do not play until Day 3 of the Bracket, but are required to be present during the end of the Day 2 Bracket stream. The Day 3 Bracket requires players in seeds 1 through 4 to pick their opponent. These players will need to be available on a Discord voice call immediately after the Day 2 Bracket final match concludes to pick their opponents. Players will pick their desired Day 3 Bracket opponent live on a Discord voice call on stream. Players will then have a couple minutes to talk about their decision if they wish.
-    - If a player is not available to pick during this time for whatever reason, please let the Playoffs organizers know as soon as possible.
