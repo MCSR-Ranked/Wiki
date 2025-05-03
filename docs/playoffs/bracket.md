@@ -6,7 +6,7 @@ It will follow a 1v1 single-elimination format.
 ## Seeding System
 At the end of the season, the 12 players with the most **_phase points_** will be automatically invited and seeded 1 through 12 accordingly. Four additional players, seeded 13 through 16, will qualify through the [Last-Chance Qualifiers](./last_chance_qualifiers). Learn more about the phase point system [here](./phase_point).
 
-Players seeded 1 through 7 will each choose their opponent from a pool of 8 players, which includes seeds 9 through 12 and the 4 players who qualified through the [Last-Chance Qualifiers](./last_chance_qualifiers). The one remaining unchosen player will be automatically assigned to the player seeded 8.
+Players seeded 1 through 7 will each choose their opponent from a pool of 8 players, which includes seeded 9 through 12 and the 4 players who qualified through the [Last-Chance Qualifiers](./last_chance_qualifiers). The one remaining unchosen player will be automatically assigned to the player seeded 8.
 
 ## Rounds
 The bracket consists of four rounds. In each round, both players will play the same seed simultaneously, and the player who makes completion first will take the seed.
