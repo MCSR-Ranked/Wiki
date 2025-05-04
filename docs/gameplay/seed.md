@@ -34,6 +34,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Spawns within 4 chunks
   - Always generated at positive coordinates for X and Y
 - 2 Magma Ravines within 10 chunks of the Shipwreck
+  - Filtered Magma Ravines are not generated in Frozen Ocean Biomes
 - At least 7 Iron (or 4 Iron + 3 Diamonds) and some food in food chest
 - Suspicious stew CANNOT be poison
 - No other shipwrecks, buried treasures, or irrelevant block entities near spawn (i.e dungeons)
@@ -61,6 +62,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Spawns within 5 chunks
   - Always generated at positive coordinates for X and Y
 - 2 Magma Ravines within 10 chunks of the Buried Treasure
+  - Filtered Magma Ravines are not generated in Frozen Ocean Biomes
 - At least 7 Iron (or 4 Iron + 3 Diamonds)
 - No other buried treasures, shipwrecks, or irrelevant block entities near spawn (i.e dungeons)
 
