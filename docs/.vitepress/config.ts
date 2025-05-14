@@ -64,6 +64,68 @@ export default defineConfig({
           link: '/',
           base: '/gameplay',
           items: [
+            {
+              text: 'Tutorials (W.I.P)',
+              collapsed: true,
+              link: '/',
+              base: '/gameplay/tutorial',
+              items: [
+                { 
+                  text: 'Overworld', 
+                  collapsed: true,
+                  link: '/',
+                  base: '/gameplay/tutorial/overworld',
+                  items: [
+                    { text: 'Village', link: '/village' },
+                    { text: 'Shipwreck', link: '/shipwreck' },
+                    { text: 'Desert Temple', link: '/desert_temple' },
+                    { text: 'Ruined Portal', link: '/ruined_portal' },
+                    { text: 'Buried Treasure', link: '/buried_treasure' },
+                  ]
+                },
+                { 
+                  text: 'Nether', 
+                  collapsed: true,
+                  link: '/',
+                  base: '/gameplay/tutorial/nether',
+                  items: [
+                    { 
+                      text: 'Bastion Remnant', 
+                      link: '/' ,
+                      base: '/gameplay/tutorial/nether/bastion',
+                      items: [
+                        { text: 'Housing', link: '/housing' },
+                        { text: 'Stables', link: '/stables' },
+                        { text: 'Bridge', link: '/bridge' },
+                        { text: 'Treasure', link: '/treasure' },
+                      ]
+                    },
+                    { text: 'Fortress', link: '/fortress' },
+                  ]
+                },
+                { 
+                  text: 'End-game', 
+                  collapsed: true,
+                  link: '/',
+                  base: '/gameplay/tutorial/endgame',
+                  items: [
+                    { text: 'Locate to Stronghold', link: '/locate_stronghold' },
+                    { text: 'Stroldhold', link: '/stronghold' },
+                    { 
+                      text: 'The End', 
+                      link: '/' ,
+                      base: '/gameplay/tutorial/endgame/end',
+                      items: [
+                        { text: 'One-Cycle', link: '/one_cycle' },
+                        { text: 'Zero-Cycle', link: '/zero_cycle' },
+                        { text: 'Ground-Zero', link: '/ground_zero' },
+                        { text: 'Oneshot', link: '/oneshot' },
+                      ]
+                    },
+                  ]
+                },
+              ]
+            },
             { 
               text: 'MCSR Ranked Seed', 
               items: [
