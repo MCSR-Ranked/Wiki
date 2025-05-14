@@ -3,11 +3,12 @@ import Layout from './Layout.vue'
 import initFootnote from '../plugins/footnote'
 import './style.css'
 import './brand.css'
+import YouTubeEmbed from '../components/YouTubeEmbed.vue'
 
 export default {
     ...DefaultTheme,
     Layout,
-    enhanceApp({ router }) {
+    enhanceApp({ app, router }) {
         if (typeof window !== 'undefined') {
             router.onAfterRouteChanged = () => {
                 setTimeout(() => {
@@ -15,5 +16,6 @@ export default {
                 }, 0)
             }
         }
+        app.component('YouTubeEmbed', YouTubeEmbed)
     }
 }

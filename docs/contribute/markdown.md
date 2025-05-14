@@ -16,3 +16,15 @@ This is example[^1]
 
 This is example[^1]
 [^1]: Example is here!
+
+## YouTube Video Embed
+```md
+<YouTubeEmbed videoId="GsVgmR0q0fc" />
+```
+
+<YouTubeEmbed videoId="GsVgmR0q0fc" />
+
+The video ID is the unique string found in the YouTube video URL.
+
+For example, in this URL: [`https://www.youtube.com/watch?v=GsVgmR0q0fc`](https://www.youtube.com/watch?v=GsVgmR0q0fc)<br>
+the video ID is: `GsVgmR0q0fc`

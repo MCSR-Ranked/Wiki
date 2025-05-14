@@ -71,7 +71,7 @@ export default defineConfig({
               base: '/gameplay/tutorial',
               items: [
                 { 
-                  text: 'Overworld', 
+                  text: 'How to Play: Overworld', 
                   collapsed: true,
                   link: '/',
                   base: '/gameplay/tutorial/overworld',
@@ -84,7 +84,7 @@ export default defineConfig({
                   ]
                 },
                 { 
-                  text: 'Nether', 
+                  text: 'How to Play: Nether', 
                   collapsed: true,
                   link: '/',
                   base: '/gameplay/tutorial/nether',
@@ -104,7 +104,7 @@ export default defineConfig({
                   ]
                 },
                 { 
-                  text: 'End-game', 
+                  text: 'How to Play: End-game', 
                   collapsed: true,
                   link: '/',
                   base: '/gameplay/tutorial/endgame',
@@ -122,6 +122,15 @@ export default defineConfig({
                         { text: 'Oneshot', link: '/oneshot' },
                       ]
                     },
+                  ]
+                },
+                { 
+                  text: 'Useful Techniques', 
+                  collapsed: true,
+                  link: '/',
+                  base: '/gameplay/tutorial/technique',
+                  items: [
+                    { text: 'Fast Looting Chest', link: '/fast_loot' },
                   ]
                 },
               ]
