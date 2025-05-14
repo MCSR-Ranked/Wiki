@@ -2,7 +2,7 @@
 This section covers how Ranked matches work, as wells as information relating to the various other features of Ranked.
 
 ### Index
-- [Tutorials](./tutorial)
+- [Tutorials](./tutorial/)
 - Ranked Seed
   - [Filtered Seeds](./seed)
   - [RNG Standardization](./rng)
