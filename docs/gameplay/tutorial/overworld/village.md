@@ -14,16 +14,7 @@ Villages are often considered the simplest of overworld types and the most begin
 
 ## Specifics
 
-- Spawns within 7 chunks
-  - Always generated at positive coordinates for X and Y
-- Contains a guaranteed Blacksmith
-  - Desert Villages may only have a toolsmith
-- 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with blacksmith lava
-- Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
-- Taiga villages always have 10+ Obsidian enters (lava pools do still exist)
-- Golem only ever drops 4 Iron, never 3 or never 5.
-- There will always be enough iron / diamonds for an iron / diamond pickaxe and an enter.
-  - This can sometimes mean 8+ obsidian with only 4 iron / diamonds for a pickaxe and a flint and steel.
+See [this page](../../seed.md)
 
 ## Goals
 
@@ -34,11 +25,11 @@ This being said, the usual progression of the village is:
 - Looting the blacksmith
 - Getting 1-2 beds
 - Getting 5+ haybales
+- Getting flint
 - Killing the golem if needed
-- Finding flint and water
 - Entering
 
-The first three goals can be done in any order, so use the route that is the quickest and most linear.
+The first four goals can be at any point, so use the route that is the quickest and most linear.
 
 # Strategies
 
