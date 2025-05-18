@@ -5,11 +5,12 @@
 Villages are often considered the simplest of overworld types and the most beginner friendly. They always have plenty of food, wood, and beds.
 
 ## Seed Type Distribution
-| Elo     | Village |
+
+|    Elo     | Village |
 | :--------: | :-----: |
-| 0 ~ 599    | 55% |
-| 600 ~ 1199 | 30% |
-| 1200+      | 20% |
+|  0 ~ 599   |   55%   |
+| 600 ~ 1199 |   30%   |
+|   1200+    |   20%   |
 
 ## Specifics
 
@@ -54,6 +55,45 @@ Note: Taiga and Snowy Villages rarely appear and will not be covered in the stra
 
 ## Plains Villages
 
+### Blacksmith
+
+<img src="./village_img/plains_blacksmith.png" alt="Plains Blacksmith" width="400px" /><br>
+
+### Fisher Cottage
+
+- Has a Small Chance for a Bucket
+
+<img src="./village_img/plains_fisher_cottage.png" alt="Plains Fisher Cottage" width="400px" />
+
+### Hotel
+
+- Always has 4 Beds
+
+<img src="./village_img/plains_hotel.png" alt="Plains Fisher Cottage" width="400px" />
+
 ## Savanna Villages
 
+- All small houses have a chance of having a bucket (but it's usually not worth checking all of them)
+- There is no natural cobblestone, so you will have to dig down for it
+
+### Blacksmith
+
+<img src="./village_img/savanna_blacksmith.png" alt="Plains Fisher Cottage" width="400px" />
+
 ## Desert Villages
+
+- If you spawn close to wood, punch two logs so you can make tools to kill the golem in the village
+- If not, punch dead bushes for at least two sticks to make an axe and find a crafting table house
+
+### Blacksmith
+
+<img src="./village_img/desert_blacksmith_1.png" alt="Plains Fisher Cottage" width="400px" />
+
+### Toolsmith
+
+<img src="./village_img/desert_toolsmith.png" alt="Plains Fisher Cottage" width="400px" />
+
+### Crafting Table House
+
+<img src="./village_img/desert_crafting_table_house_1.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./village_img/desert_crafting_table_house_2.png" alt="Plains Fisher Cottage" width="400px" />
