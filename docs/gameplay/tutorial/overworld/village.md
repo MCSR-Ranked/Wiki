@@ -44,14 +44,16 @@ The first three goals can be done in any order, so use the route that is the qui
 Note: Taiga and Snowy Villages rarely appear and will not be covered in the strategies.
 
 ## All Village Strategies
+
 - To kill the golem, simply stack up three blocks as he can't hit you and use your sword or axe.
   - You can place a crafting table at your feet to overlap crafting a boat, bread, and other items as your axe recharges its crit.
 - If you get six iron, it is usually not worth it to woodlight with just an iron pickaxe and a bucket. Craft a shovel and shears instead.
   - If a ruined portal is close by, it is usually worth it to skip the golem due to a chance of flint, fire charges, and iron
+- If you spawn next to a river, try to get flint by punching 3-4 pieces of gravel
+  - You can overlap running to the lava pool and grinding gravel by running, placing gravel, and digging over and over.
 
 ## Plains Villages
 
 ## Savanna Villages
 
 ## Desert Villages
-
