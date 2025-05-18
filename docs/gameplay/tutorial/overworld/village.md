@@ -14,7 +14,7 @@ Villages are often considered the simplest of overworld types and the most begin
 
 ## Specifics
 
-See [this page](../../seed.md)
+See [this page](../../seed.md#village)
 
 ## Goals
 
