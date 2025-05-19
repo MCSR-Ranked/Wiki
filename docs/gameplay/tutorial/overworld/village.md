@@ -48,19 +48,19 @@ Note: Taiga and Snowy Villages rarely appear and will not be covered in the stra
 
 ### Blacksmith
 
-<img src="./village_img/plains_blacksmith.png" alt="Plains Blacksmith" width="400px" /><br>
+<img src="./img/village/plains_blacksmith.png" alt="Plains Blacksmith" width="400px" /><br>
 
 ### Fisher Cottage
 
 - Has a Small Chance for a Bucket
 
-<img src="./village_img/plains_fisher_cottage.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./img/village/plains_fisher_cottage.png" alt="Plains Fisher Cottage" width="400px" />
 
 ### Hotel
 
 - Always has 4 Beds
 
-<img src="./village_img/plains_hotel.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./img/village/plains_hotel.png" alt="Plains Fisher Cottage" width="400px" />
 
 ## Savanna Villages
 
@@ -69,7 +69,7 @@ Note: Taiga and Snowy Villages rarely appear and will not be covered in the stra
 
 ### Blacksmith
 
-<img src="./village_img/savanna_blacksmith.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./img/village/savanna_blacksmith.png" alt="Plains Fisher Cottage" width="400px" />
 
 ## Desert Villages
 
@@ -78,13 +78,30 @@ Note: Taiga and Snowy Villages rarely appear and will not be covered in the stra
 
 ### Blacksmith
 
-<img src="./village_img/desert_blacksmith_1.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./img/village/desert_blacksmith_1.png" alt="Plains Fisher Cottage" width="400px" />
 
 ### Toolsmith
 
-<img src="./village_img/desert_toolsmith.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./img/village/desert_toolsmith.png" alt="Plains Fisher Cottage" width="400px" />
 
 ### Crafting Table House
 
-<img src="./village_img/desert_crafting_table_house_1.png" alt="Plains Fisher Cottage" width="400px" />
-<img src="./village_img/desert_crafting_table_house_2.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./img/village/desert_crafting_table_house_1.png" alt="Plains Fisher Cottage" width="400px" />
+<img src="./img/village/desert_crafting_table_house_2.png" alt="Plains Fisher Cottage" width="400px" />
+
+# Example Videos
+
+## Plains Village
+
+Timestamp = **19:25**
+<YouTubeEmbed videoId="kctJlU5reIQ" />
+
+## Savanna Village
+
+Timestamp = **3:26:11**
+<YouTubeEmbed videoId="JxRyJa3Gu04" />
+
+## Desert Village
+
+Timestamp = **43:04**
+<YouTubeEmbed videoId="p6cKv7gYVi4">
