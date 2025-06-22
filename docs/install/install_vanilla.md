@@ -23,7 +23,8 @@ Under Launcher > Installations
 ![Installation folder](https://img001.prntscr.com/file/img001/pwuJSPm5TlC7a842veB_pA.png) Create a new folder named "mcsr ranked" in this directory, and create a folder named "mods" inside that, 
 then you can place the mods inside the newly created mods folder and edit the file directory for that modded instance.
 ![Upload file directory](https://img001.prntscr.com/file/img001/5-UWlx0CSdiCp9Syi_db0g.png)
-
+This allows you to separate different mods instances rather than using the `.minecraft\mods` directory, for example you can have `.minecraft\mcsr ranked\mods` and `.minecraft\mcsr verifiable\mods`
+and switch between these profiles inside the launcher. 
 
 
 ## Launch the Profile
