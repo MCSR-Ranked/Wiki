@@ -20,7 +20,7 @@ Download the MCSR Ranked mod from [the Modrinth page](http://modrinth.com/mod/mc
 Additionally, it is recommended to get other allowed mods from https://mods.tildejustin.dev/.
 
 Under Launcher > Installations 
-![Installation folder](../img/install/ModsFolder.png) Create a new folder named "mcsr ranked" in this directory, and create a folder named "mods" inside that, 
+![Installation folder](../install/img/ModsFolder.png) Create a new folder named "mcsr ranked" in this directory, and create a folder named "mods" inside that, 
 then you can place the mods inside the newly created mods folder and edit the file directory for that modded instance.
 ![Upload file directory](../install/img/InstallDirectory.png)
 This allows you to separate different mods instances rather than using the `.minecraft\mods` directory, for example you can have `.minecraft\mcsr ranked\mods` and `.minecraft\mcsr verifiable\mods`
