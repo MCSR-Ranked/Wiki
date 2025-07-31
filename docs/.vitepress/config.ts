@@ -110,7 +110,7 @@ export default defineConfig({
                   base: '/gameplay/tutorial/endgame',
                   items: [
                     { text: 'Locate to Stronghold', link: '/locate_stronghold' },
-                    { text: 'Stroldhold', link: '/stronghold' },
+                    { text: 'Stronghold', link: '/stronghold' },
                     { 
                       text: 'The End', 
                       link: '/' ,
