@@ -4,7 +4,7 @@ All players with **__Top 100 in phase points leaderboard__** from last season wi
 
 By the end of the event, we will determine 4 winners, who will earn a spot in the Ranked Playoffs bracket. It is imperative that players only participate in the qualifier if they are certain they can make the dates for the next stage of the tournament. The 4 qualifiers will be seeded in the bracket based on phase point count as opposed to qualifier performance.
 
-To reward players for their efforts throughout the season, we will be giving a small headstart to those with excess phase points. For every 5 phase points over the 20 point requirement, players will start with 1 point in the qualifier. So a player with 35 phase points would gain a 3 point advantage.
+To reward players for their efforts throughout the season, we will be giving a small headstart to those with excess phase points. For every 10 phase points over the phase point cutoff.
 
 Players will have 15 minutes for each seed, or until up to 24 players have completed the seed, whichever comes first. Players who complete the seed will earn up to 24 points based on their placement. The point distribution will scale evenly depending on the number of possible completions for that round (max of 24).
 
