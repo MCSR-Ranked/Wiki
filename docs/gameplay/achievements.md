@@ -14,14 +14,43 @@ There are 5 different level achievements, and each one has a defined set of mile
 
 ### Break the Barrier
 
+TODO: INSERT DESCRIPTION
+
+| ?   | ?      | ?      | ?      | ?      | ?      | ?      | ?      | ?     | ?     | ?     | ?     |
+| --- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- |
+| Any | Sub 30 | Sub 20 | Sub 15 | Sub 13 | Sub 12 | Sub 11 | Sub 10 | Sub 9 | Sub 8 | Sub 7 | Sub 6 |
+
 ### Consistent Wins
+
+TODO: INSERT DESCRIPTION
+
+| ?                 | ?                 | ?                 | ?                 | ?                  | ?                  | ?                  | ?                  |
+| ----------------- | ----------------- | ----------------- | ----------------- | ------------------ | ------------------ | ------------------ | ------------------ |
+| 2 Match Winstreak | 4 Match Winstreak | 6 Match Winstreak | 8 Match Winstreak | 10 Match Winstreak | 15 Match Winstreak | 20 Match Winstreak | 25 Match Winstreak |
 
 ### Match Master
 
+TODO: INSERT DESCRIPTION
+
+| ?       | ?         | ?          | ?          | ?          | ?           | ?           | ?           | ?             | ?             | ?             | ?              |
+| ------- | --------- | ---------- | ---------- | ---------- | ----------- | ----------- | ----------- | ------------- | ------------- | ------------- | -------------- |
+| 1 Match | 5 Matches | 15 Matches | 30 Matches | 50 Matches | 100 Matches | 200 Matches | 500 Matches | 1,000 Matches | 2,000 Matches | 5,000 Matches | 10,000 Matches |
+
 ### Practice Makes Perfect
+
+TODO: INSERT DESCRIPTION
+
+| ?      | ?       | ?        | ?        | ?        | ?         | ?         | ?         | ?           | ?           | ?           | ?            |
+| ------ | ------- | -------- | -------- | -------- | --------- | --------- | --------- | ----------- | ----------- | ----------- | ------------ |
+| 1 Hour | 5 Hours | 10 Hours | 20 Hours | 50 Hours | 100 Hours | 200 Hours | 500 Hours | 1,000 Hours | 2,000 Hours | 5,000 Hours | 10,000 Hours |
 
 ### W Collector
 
+TODO: INSERT DESCRIPTION
+
+| ?     | ?      | ?       | ?       | ?       | ?        | ?        | ?        | ?          | ?          | ?          | ?           |
+| ----- | ------ | ------- | ------- | ------- | -------- | -------- | -------- | ---------- | ---------- | ---------- | ----------- |
+| 1 Win | 5 Wins | 10 Wins | 20 Wins | 50 Wins | 100 Wins | 200 Wins | 500 Wins | 1,000 Wins | 2,000 Wins | 5,000 Wins | 10,000 Wins |
 
 ## One-time Achievements
 
@@ -40,19 +69,24 @@ There are 5 different level achievements, and each one has a defined set of mile
 | You Only Get One Shot | ?        | ?     |
 
 ## [Playoffs](/playoffs/bracket) Achievements
-After playoffs ends, each participant will earn an achievement based on their result. In game achievements will also show the season number.
+After playoffs ends, each participant will earn an achievement based on their result. In-game achievements will also show the season number.
 
-| Winner | 2nd Place | 3rd Place | Participant |
-| ------ | --------- | --------- | ----------- |
 | ?      | ?         | ?         | ?           |
+| ------ | --------- | --------- | ----------- |
+| Winner | 2nd Place | 3rd Place | Participant |
 
 ## Season Placement Achievements
 
 After a season ends, players will earn an achievement based on their final leaderboard placement. In-game achievements will also show the season number and the exact placement.
 
-| Top 1 | Top 5 | Top 10 | Top 50 | Top 100 | Top 500 | Top 1000 |
-| ----- | ----- | ------ | ------ | ------- | ------- | -------- |
-| ?     | ?     | ?      | ?      | ?       | ?       | ?        |
+| ?     | ?     | ?      | ?      | ?       | ?       | ?         |
+| ----- | ----- | ------ | ------ | ------- | ------- | --------- |
+| Top 1 | Top 5 | Top 10 | Top 50 | Top 100 | Top 500 | Top 1,000 |
 
 ## [Weekly Race](/gameplay/weekly_race) Achievements
-TODO
+
+At the end of a weekly race, players will earn an achievement based on their leaderboard placement for that race. In-game achievements will also show the exact placement
+
+| ?     | ?     | ?      | ?      |
+| ----- | ----- | ------ | ------ |
+| Top 1 | Top 5 | Top 10 | Top 15 |
