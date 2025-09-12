@@ -16,9 +16,9 @@ There are 5 different level achievements, and each one has a defined set of mile
 
 TODO: INSERT DESCRIPTION
 
-| ?   | ?      | ?      | ?      | ?      | ?      | ?      | ?      | ?     | ?     | ?     | ?     |
-| --- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- |
-| Any | Sub 30 | Sub 20 | Sub 15 | Sub 13 | Sub 12 | Sub 11 | Sub 10 | Sub 9 | Sub 8 | Sub 7 | Sub 6 |
+| ![Break the Barrier Level 1 Badge](./img/achievement/break_the_barrier_level_1.png) | ?      | ?      | ?      | ?      | ?      | ?      | ?      | ?     | ?     | ?     | ?     |
+| ----------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- |
+| Any                                                                                 | Sub 30 | Sub 20 | Sub 15 | Sub 13 | Sub 12 | Sub 11 | Sub 10 | Sub 9 | Sub 8 | Sub 7 | Sub 6 |
 
 ### Consistent Wins
 
