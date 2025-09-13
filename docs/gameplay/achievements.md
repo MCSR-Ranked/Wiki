@@ -170,7 +170,7 @@ After a season ends, players will earn an achievement based on their final leade
 
 ## [Weekly Race](/gameplay/weekly_race) Achievements
 
-At the end of a weekly race, players will earn an achievement based on their leaderboard placement for that race. In-game achievements will also show the exact placement.
+At the end of a weekly race, players will earn an achievement based on their leaderboard placement for that race. In-game achievements will display the number of times you have achieved a placement that would earn you that badge.
 
 | ![Weekly race 1st place badge](./img/achievement/weekly_race_top_1.png){width="150"} | ![Weekly race top 5 badge](./img/achievement/weekly_race_top_5.png){width="150"} | ![Weekly race top 10 badge](./img/achievement/weekly_race_top_10.png){width="150"} | ![Weekly race top 15 badge](./img/achievement/weekly_race_top_15.png){width="150"} |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
