@@ -14,7 +14,7 @@ There are 5 different level achievements, and each one has a defined set of mile
 
 ### Break the Barrier
 
-TODO: INSERT DESCRIPTION
+Tracks the players' fastest completion time, and will upgrade at specific notable minute barriers. The level of this badge is determined by the players' fastest completion in Ranked mode
 
 :::details
 
@@ -38,7 +38,7 @@ TODO: INSERT DESCRIPTION
 
 ### Consistent Wins
 
-TODO: INSERT DESCRIPTION
+Tracks the number of matches won in a row. The level of this badge is determined by the length of the players' longest winstreak.
 
 :::details
 
@@ -57,9 +57,10 @@ TODO: INSERT DESCRIPTION
 
 ### Match Master
 
-TODO: INSERT DESCRIPTION
+Tracks the total number of matches a player has played, and the will upgrade as you play more matches.
 
 :::details
+
 |    Matches     |                             Badge                             |
 | :------------: | :-----------------------------------------------------------: |
 |    1 Match     | ![](./img/achievement/match_master_level_1.png){width="150"}  |
@@ -79,7 +80,7 @@ TODO: INSERT DESCRIPTION
 
 ### Practice Makes Perfect
 
-TODO: INSERT DESCRIPTION
+Tracks the total amount of time spent playing MCSR Ranked. The achievement upgrades as you play for longer
 
 :::details
 
@@ -103,7 +104,7 @@ TODO: INSERT DESCRIPTION
 
 ### W Collector
 
-TODO: INSERT DESCRIPTION
+Tracks the total number of matches won. All matches won in ranked mode will count towards this achievement, regardless of how it was won.
 
 :::details
 
@@ -126,19 +127,23 @@ TODO: INSERT DESCRIPTION
 
 ## One-time Achievements
 
-| Achievement Name      | Criteria | Badge                                                         |
-| --------------------- | -------- | ------------------------------------------------------------- |
-| A Limited Diet        | ?        | ![](./img/achievement/a_limited_diet.png){width="150"}        |
-| Classic               | ?        | ![](./img/achievement/classic.png){width="150"}               |
-| Farming Time          | ?        | ![](./img/achievement/farming_time.png){width="150}           |
-| GIGACHAD              | ?        | ![](./img/achievement/gigachad.png){width="150"}              |
-| It isn't Iron Pick    | ?        | ![](./img/achievement/it_isnt_iron_pick.png){width="150"}     |
-| Never. Give. Up.      | ?        | ![](./img/achievement/never_give_up.png){width="150"}         |
-| Smithing Time         | ?        | ![](./img/achievement/smithing_time.png){width="150"}         |
-| Too Many Levels       | ?        | ![](./img/achievement/too_many_levels.png){width="150"}       |
-| Valuable Artifact     | ?        | ![](./img/achievement/valuable_artifact.png){width="150"}     |
-| Wrong Category        | ?        | ![](./img/achievement/wrong_category.png){width="150"}        |
-| You Only Get One Shot | ?        | ![](./img/achievement/you_only_get_one_shot.png){width="150"} |
+:::warning
+Achievements that require winning a match can only be earn if you win by completing the seed. Winning due to your opponent forfeiting does not give you the achievement, even if all other criteria are met.
+:::
+
+| Achievement Name      | Criteria                                                              | Badge                                                         |
+| --------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| A Limited Diet        | Win a match without eating any food                                   | ![](./img/achievement/a_limited_diet.png){width="150"}        |
+| Classic               | Win a match without entering a bastion                                | ![](./img/achievement/classic.png){width="150"}               |
+| Farming Time          | Win a match with an iron hoe in your inventory                        | ![](./img/achievement/farming_time.png){width="150}           |
+| GIGACHAD              | Win a match without ever wearing armor                                | ![](./img/achievement/gigachad.png){width="150"}              |
+| It isn't Iron Pick    | Win a match without ever crafting an iron pickaxe                     | ![](./img/achievement/it_isnt_iron_pick.png){width="150"}     |
+| Never. Give. Up.      | Reset the world while in the End, and then win the match              | ![](./img/achievement/never_give_up.png){width="150"}         |
+| Smithing Time         | Win a match with a netherite ingot in your inventory                  | ![](./img/achievement/smithing_time.png){width="150"}         |
+| Too Many Levels       | Win a match with at least 60 experience levels                        | ![](./img/achievement/too_many_levels.png){width="150"}       |
+| Valuable Artifact     | Obtain an enchanted golden apple, and win the match without eating it | ![](./img/achievement/valuable_artifact.png){width="150"}     |
+| Wrong Category        | Win a match after killing the wither                                  | ![](./img/achievement/wrong_category.png){width="150"}        |
+| You Only Get One Shot | Win a match after killing the Ender Dragon with a single arrow        | ![](./img/achievement/you_only_get_one_shot.png){width="150"} |
 
 ## [Playoffs](/playoffs/bracket) Achievements
 After playoffs ends, each participant will earn an achievement based on their result. In-game achievements will also show the season number.
