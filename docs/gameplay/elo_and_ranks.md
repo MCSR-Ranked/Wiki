@@ -27,7 +27,7 @@ The playerbase is separated into 6 Ranks.
 | Elo         | Rank      | Notes
 | :---------: | :-------: | -----
 | 0 ~ 599     | Coal      | Lowest rank in the game.
-| 600 ~ 899   | Iron      | Unlocks Desert Temples as a seed type.
+| 600 ~ 899   | Iron      | Unlocks Ruined Portals as a seed type.
 | 900 ~ 1199  | Gold      | Most common rank.
 | 1200 ~ 1499 | Emerald   | Unlocks Buried Treasures as a seed type.
 | 1500 ~ 1999 | Diamond   | This roughly represents the top 5% of players.
