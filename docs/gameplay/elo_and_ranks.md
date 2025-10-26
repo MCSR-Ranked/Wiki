@@ -4,17 +4,19 @@
 
 MCSR Ranked has an Elo Rating system, much like [chess](https://www.chess.com/terms/elo-rating-chess), to rank players by how skilled they are at speedrunning. Elo is used for matchmaking players of similar skill, to provide competitiveness to the speedruns. (See: [Matchmaking](./matchmaking))
 
+## Placement Matches
+
+To determine a player’s appropriate Elo, they must complete some placement matches.
+
+This is based on how far the player advances in each match, regardless of how fast it is, so progressing as far as possible in each placement match will allow the player to obtain their Elo rating more quickly.
+
 ## How does Elo Work?
 
-Upon account creation, players start with 1000 Elo. They can increase their Elo by winning, or decrease it by losing. Depending on the elo of your opponent, you can gain or lose more elo than usual.
+After done with [placement matches](#placement-matches), Players can increase their Elo by winning, or decrease it by losing. Depending on the elo of your opponent, you can gain or lose more elo than usual.
 
 ![Example of Elo change](./img/elo_change.png)
 
 *Redlime gains less Elo than the standard 20, since his opponent had less Elo than him.*
-
-## Placement Matches
-
-A player's first 5 matches are placement matches designed to predict their Elo rating. During these matches, the player's Elo is hidden.
 
 ## Elo Decay
 
@@ -39,19 +41,6 @@ They are further separated into Divisions as follows:
 
 ## Seasons and Phases
 
-On a season end, all players with Elo above 1200 will have their Elo "reset" according to this formula:
-$$
-E' =  + \min(E, 1200 + (E - 1200) \times 0.25)
-$$
-In English, players below 1200 Elo are unaffected. Any extra Elo above 1200 that a player has is quartered. For example:
-```
-Old Elo => New Elo
-   1100 => 1100
-   1300 => 1225
-   1600 => 1300
-   2200 => 1450
-```
-
-Players become unranked and have to play 5 matches to receive their new Elo.
+On a season end, all players will become unranked and have to play [placement matches](#placement-matches) to receive their new Elo.
 
 Seasons are separated by (usually) 4 phases, each a month long. See all about the phase system here: [Phase Points](../playoffs/phase_point.md)
