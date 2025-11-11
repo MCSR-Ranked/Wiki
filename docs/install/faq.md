@@ -73,6 +73,8 @@ If you’re on a cracked launcher:
 
 - You need a [Minecraft account](https://www.minecraft.net/) to play Ranked, since Ranked requires your player UUID.
 
+If the above don't work, try [updating java](https://wiki.mcsrranked.com/install/faq#update-java).
+
 ## My game fails to launch
 
 You can browse through [Crashes](#crashes) to find the issue you’re having, but if you’re not sure or it’s too much to look through, see the guide at the top of [Crashes](#crashes) which will show you what files you’d need to send in #tech-help, so that others can help diagnose your issue.
