@@ -137,7 +137,7 @@ Do not allocate too much RAM since [it may cause lag spikes](https://vazkii.net/
 
 On Windows:
 
-1. Press the Start button and type “Graphics settings”. Under Graphics performance preference, click “Browse”.
+1. For Windows 10, press the Start button and type “Graphics settings”. Under Graphics performance preference, click “Browse”. For Windows 11, under Graphics performance preference, click "Add desktop app."
 
 <div style="text-align:center;">
   <img src="./img/gpu_guide.png" alt="Logo" style="display: block; margin: 0 auto;">
