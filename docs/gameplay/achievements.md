@@ -4,7 +4,7 @@ Achievements can only be acquired in ranked matches. Most achievements can only 
 
 Achievements can be found on your ranked profile and up to 3 achievements of your choosing can be highlighted, with supporter tier 2 giving 4 highlighted achievements, and supporter tier 3 giving 5 highlighted achievements. More information about supporter tiers can be found on the [Ranked Store](https://mcsrranked.com/store).
 
-Highlighted achievements will also be visible to your opponent when entering a match
+Highlighted achievements will also be visible to your opponent when entering a match.
 
 Some achievements can be leveled up, or obtained by doing something once then winning the match.
 
@@ -60,7 +60,7 @@ Tracks the number of matches won in a row. The level of this badge is determined
 
 ### Match Master
 
-Tracks the total number of matches a player has played, and the will upgrade as you play more matches.
+Tracks the total number of matches a player has played, and will upgrade as you play more matches.
 
 :::details Levels & Badges
 
@@ -84,7 +84,7 @@ Tracks the total number of matches a player has played, and the will upgrade as 
 
 ### Practice Makes Perfect
 
-Tracks the total amount of time spent playing MCSR Ranked. The achievement upgrades as you play for longer
+Tracks the total amount of time spent playing MCSR Ranked. The achievement upgrades as you play for longer.
 
 :::details Levels & Badges
 
@@ -133,7 +133,7 @@ Tracks the total number of matches won. All matches won in ranked mode will coun
 ## One-time Achievements
 
 :::warning
-Achievements that require winning a match can only be earn if you win by completing the seed. Winning due to your opponent forfeiting does not give you the achievement, even if all other criteria are met.
+Achievements that require winning a match can only be earned if you win by completing the seed. Winning due to your opponent forfeiting does not give you the achievement, even if all other criteria are met.
 :::
 
 | Achievement Name      | Criteria                                                              | Badge                                                                                                |
