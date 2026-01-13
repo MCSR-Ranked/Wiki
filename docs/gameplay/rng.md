@@ -60,6 +60,6 @@ The mod tries to attempt up to 4 spots in the spawner. These 4 spots are the sam
 ::: details
 Every portal is treated like you are building on Y64 in the overworld, however this does not guarantee Y64 in the Nether. If the Nether is buried from Y64-Y31, then your portal will be Y30. Regardless, the portal is standardized for X,Y,Z.
 :::
-- First blind portal* Y height is never more than 5 blocks lower than your Nether Y height, so you get caved much less
+- First blind portal* will always spawn on the surface if built at Nether Y level 48 or above, so you rarely get caved.
 
 *: First portal from Nether for travel to Stronghold.
