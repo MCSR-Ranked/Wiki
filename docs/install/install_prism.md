@@ -1,6 +1,6 @@
-# Installation with Prism Launcher / MultiMC
+# Installation with [Prism Launcher](https://prismlauncher.org/) (recommended) / MultiMC
 
-## Launcher setup
+## (Recommended) Launcher setup
 If you're new to speedrunning, we recommend following [draconix's guide](https://youtu.be/RSLv7FfQZKY) for setting everything up.
 
 ## Add Instance
