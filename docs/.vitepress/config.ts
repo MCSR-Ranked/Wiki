@@ -49,6 +49,7 @@ export default defineConfig({
             { 
               text: 'Launcher Guide', 
               items: [
+                { text: 'MCSR Launcher', link: '/install_mcsrlauncher' },
                 { text: 'Prism Launcher / MultiMC', link: '/install_prism' },
                 { text: 'Modrinth App', link: '/install_modrinth' },
                 { text: 'Minecraft Launcher', link: '/install_vanilla' },

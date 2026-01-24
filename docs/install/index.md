@@ -7,6 +7,7 @@
 You can play with the MCSR Ranked mod on most popular launchers.
 
 🚀 **Launcher Installation Guide**
+- [MCSR Launcher](./install_mcsrlauncher)
 - [Prism Launcher / MultiMC](./install_prism)
 - [Modrinth App](./install_modrinth)
 - [Official Minecraft Launcher](./install_vanilla)
