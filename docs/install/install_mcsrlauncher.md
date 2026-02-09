@@ -1,4 +1,4 @@
-# Installation with [MCSR Launcher](https://github.com/MCSRLauncher/Launcher/releases/latest)
+# Installation with [MCSR Launcher](https://mcsrlauncher.github.io/download)
 
 ## Launcher setup
 After installing MCSR Launcher from the link above, open it and add your Microsoft account by going to `Accounts` ➔ `Add Account`.
