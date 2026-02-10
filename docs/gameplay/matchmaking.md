@@ -11,4 +11,4 @@ In casual mode, queue times are also significantly longer than in ranked mode un
 ## Matchmaking Settings
 Matchmaking Settings can be found be going to Ranked > Settings > Matchmaking settings, when your instance is opened with Ranked installed.
 - The first setting lets you cycle between three matchmaking options: accurate, balanced and fast. These options will change how fast it is to find a match by increasing the range of player Elo’s that you can matchmake against.
-- The Unlimited Casual Queue setting allows you to matchmake against players of any Elo rating when playing casual mode. This significantly increases matchmaking times for this mode.
+- The Unlimited Casual Queue setting allows you to matchmake against players of any Elo rating when playing casual mode. This significantly decreases matchmaking times for this mode.
