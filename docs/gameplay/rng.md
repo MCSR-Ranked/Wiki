@@ -8,9 +8,8 @@ The RNG Seed is same as Overworld seed by default. In private room, you can use 
 This document will describe what is standardized based on RNG Seed.
 
 ## Piglin Barters
-- Barter chances for Ender Pearls and Obsidian are increased
-- 6 Obsidian is guaranteed in the first 72 barters (8 Gold Blocks)
-- 3 Ender Pearl trades are guaranteed in the first 72 barters (8 Gold Blocks)
+- Barter chances for Obsidian is increased by approximately 3.5%
+- 6 Obsidian and 3 ender pearl trades are guaranteed for every 72 barters (8 Gold Blocks)
 - All players in the match have the same trades in the same order
 
 ## Entity Drop Loot
@@ -28,8 +27,8 @@ This document will describe what is standardized based on RNG Seed.
 - Eye of Ender throw break rates are standardized
   - Also, the 2nd eye throw will never break
 - Hunger effect rates from Rotten Flesh is standardized
-- Endermite spawn rates from Ender Pearl throw is standardized
-- Wool rates from sheep with shear uses are standardized
+- Endermite spawn rates from Ender Pearl throws is standardized
+- Wool rates from sheep while using shears are standardized
 
 ## Ender Dragon
 - Ender Dragon picks a standard node for zero cycle between 0-15 rather the regular 0-20 in vanilla, so it can still fly away, but the chance is lower and will be the same for all players in the match
