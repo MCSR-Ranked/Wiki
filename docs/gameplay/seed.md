@@ -11,7 +11,7 @@ For more efficient filtering and usability, the overworld and nether are filtere
 |    Elo*    | Village | Shipwreck | Desert Temple | Ruined Portal | Buried Treasure |
 | :--------: | :-----: | :-------: | :-----------: | :-----------: | :-------------: |
 |  0 ~ 599   |   55%   |    15%    |      30%      |      0%       |       0%        |
-| 600 ~ 1199 |   30%   |    20%    |      30%      |      20%      |       0%        |
+| 600 ~ 1199 |   30%   |    25%    |      25%      |      20%      |       0%        |
 |   1200+    |   20%   |    20%    |      20%      |      20%      |       20%       |
 
 *: Based on the average Elo Rate of all players in the match.
