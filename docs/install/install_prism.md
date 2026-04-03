@@ -1,14 +1,13 @@
-# Installation with [Prism Launcher](https://prismlauncher.org/) (recommended) / MultiMC
+# Installation with [Prism Launcher](https://prismlauncher.org/) / MultiMC
 
-## (Recommended) Launcher setup
-If you're new to speedrunning, we recommend following [draconix's guide](https://youtu.be/RSLv7FfQZKY) for setting everything up.
+::: info
+Prism Launcher is recommended instead of MultiMC due to it automatically fixing many common issues that occur with MultiMC.
+:::
 
-## Add Instance
-We recommend using the official modpack, which includes other allowed QoL and performance mods. Download it from [here](./download#modpack).
-
-Then, open your launcher, and either drag the `.mrpack` file into the launcher, or go to `Add Instance` -> `Import (from zip)`, and select it here. Finally, launch your new instance.
-
-## (Advanced) Update Java
-It's generally recommended to use Java 17 to 22 for speedrunning for better performance and compatibility with some practice mods.
-- for Prism: check out [this document](https://gist.github.com/maskersss/0993754fb91686f78f8c000280699fa4) for a guide.
-- for MultiMC: check out the relevant section of [this document](https://docs.google.com/document/d/1PIjyPMulI3r5aZpfywt5OQR_12qEzX5UTfU8DQHtNp8/edit?pli=1&tab=t.0#heading=h.62ygxgaxcs5a) for a guide.
+## Installation and Setup
+Follow [Draconix's guide](https://youtu.be/l-q-_4R8_6M) to set everything up. The guide includes:
+- MCSR Ranked & mod installation
+- Downloading Java
+- Practice map & other practice tools installation
+- Eye measuring & Toolscreen setup
+- And much more
