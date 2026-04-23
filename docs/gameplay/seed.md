@@ -30,7 +30,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Golem only ever drops 4 Iron, never 3 or never 5.
 - At least 7 Iron (or 4 Iron + 3 Diamonds) (including golem) with food in chests or haybales
 
-*: The guaranteed Blacksmith is usually a weaponsmith, but can instead be a toolsmith in desert and taiga villages.
+*: The guaranteed Blacksmith is usually a weaponsmith, but can instead be a toolsmith in desert and taiga villages, or an armorer in snowy villages.
 
 ### Shipwreck
 - Spawns within 4 chunks
