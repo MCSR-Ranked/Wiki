@@ -3,7 +3,7 @@
 ## Explanation
 MCSR Ranked uses its own Seed Filter to select vanilla seeds which satisfy certain conditions.
 - In Ranked and Casual modes, filtered seeds are used in all matches.
-- In Private rooms, it can be used by enabling the "Filtered Seed" match option.
+- In Private rooms, filtered seeds are used by default, but can be turned off by disabling the "Use Filtered Seed" match rule.
 
 For more efficient filtering and usability, the overworld and nether are filtered via independent seeds. Therefore, strategies that can infer some RNG in the Nether, such as the Divine Travel strategy, will not work.
 
@@ -24,10 +24,10 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Spawns within 7 chunks
   - Always generated at positive coordinates for X and Z
 - Contains a guaranteed Blacksmith*
-- 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with blacksmith lava
+- 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with Blacksmith lava
 - Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
 - Taiga villages always have 10+ Obsidian enters (lava pools do still exist)
-- Golem only ever drops 4 Iron, never 3 or never 5.
+- Iron Golem always drops 4 Iron (never 3 or 5)
 - At least 7 Iron (or 4 Iron + 3 Diamonds) (including golem) with food in chests or haybales
 
 *: The guaranteed Blacksmith is usually a weaponsmith, but can instead be a toolsmith in desert and taiga villages.
@@ -35,17 +35,17 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 ### Shipwreck
 - Spawns within 4 chunks
   - Always generated at positive coordinates for X and Z
-- 2 Magma Ravines within 10 chunks of the Shipwreck
+- 2 Magma Ravines are guaranteed within 10 chunks of the Shipwreck
   - Filtered Magma Ravines are not generated in Frozen Ocean Biomes
 - At least 7 Iron (or 4 Iron + 3 Diamonds) and some food in food chest
-- Suspicious stew CANNOT be poison
-- No other shipwrecks, buried treasures, or irrelevant block entities near spawn (i.e dungeons)
+- Suspicious stew CANNOT give poison
+- No other shipwrecks, buried treasures, or irrelevant block entities near spawn (e.g. dungeons)
 - Shipwreck chests will not be buried [mostly...]
 
 ### Desert Temple
 - Spawns within 5 chunks
   - Always generated at positive coordinates for X and Z
-- 3 lava pools guaranteed near to the temple
+- 3 lava pools are guaranteed near the temple
 - Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
 - At least 7 Iron (or 4 Iron + 3 Diamonds)
 - Some food in chests (😋 rotten flesh)
@@ -57,16 +57,16 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Enterable with Obsidian or Bucket (50/50)
 - There's a chance that there won’t be enough Iron for an Iron Pickaxe
 - Food in chest or animals within 5 chunks with a Flint and Steel / Fire Aspect Sword
-- A light is guaranteed! (i.e Flint and Steel, Fire Charge, Flint and extra iron nuggets)
-- Guaranteed at least 18 iron nuggets, excluding those needed to make the Bucket.
+- A light is guaranteed! (e.g. Flint and Steel, Fire Charge, Flint and extra iron nuggets)
+- Guaranteed at least 18 iron nuggets, excluding those needed to make the Bucket or Flint and Steel if needed.
 
 ### Buried Treasure
 - Spawns within 5 chunks
   - Always generated at positive coordinates for X and Z
-- 2 Magma Ravines within 10 chunks of the Buried Treasure
+- 2 Magma Ravines are guaranteed within 10 chunks of the Buried Treasure
   - Filtered Magma Ravines are not generated in Frozen Ocean Biomes
 - At least 7 Iron (or 4 Iron + 3 Diamonds)
-- No other buried treasures, shipwrecks, or irrelevant block entities near spawn (i.e dungeons)
+- No other buried treasures, shipwrecks, or irrelevant block entities near spawn (e.g. dungeons)
 
 ## Nether Requirements
 
@@ -74,7 +74,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Closest Bastion Remnant is always the intended Bastion Remnant, it will be at least 10 chunks closer than any other Bastion Remnant to 0,0*
 - Intended Bastion Remnant is within 14 chunks of 0,0*
 - Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests (or center chest for housing)
-- Stables Bastion Remnant must have at least 1 good gap
+- Stables Bastion Remnant has at least 1 good gap
 - Open terrain check from approximate nether entry to the Bastion Remnant
 
 *: This means that the X coodinate is 0 and Z coodinate is 0. (0, 0)
