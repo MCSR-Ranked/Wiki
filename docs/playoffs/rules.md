@@ -6,8 +6,7 @@
 2. All guidelines of play from the [Official MCSR Ranked website](https://mcsrranked.com/guidelines) apply to the Playoffs.
     - Additionally, players must use absolutely no outside assistance from other players, streams, Twitch chats, discord channels, etc. during each played seed of the Playoffs. Players must be in the appropriate Discord stage channel for the entire duration of their match.
     - Players may interact with outside sources of information during intermissions and breaks between seeds.
-3. The Playoffs will be played on the latest official release of the MCSR Ranked mod unless otherwise stated. Normal MCSR Ranked rules will apply to each Playoffs seed and match, with the exception of the following changes:
-    - The “No Zombie Piglins in Bastions” setting will be turned ON
+3. The Playoffs will be played on the latest official release of the MCSR Ranked mod unless otherwise stated. Normal MCSR Ranked rules will apply to each Playoffs seed and match, with the exception of the following change:
     - The world seed will be set
         - The world seeds used for the Playoffs are generated using the MCSR Ranked seed filter and additionally hand checked for adequate playability
 4. Scheduling for the Playoffs will be communicated as early as possible and will generally follow the rules below.

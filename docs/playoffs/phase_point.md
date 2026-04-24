@@ -5,7 +5,7 @@ Each season is split into **4**, month-long, phases. You will only need to do pl
 
 Your placement at the end of each phase will reward you with a certain amount of **Phase Points**, which will be displayed on your profile. At the end of the season, the Top 12 players with the most points will be automatically invited to the bracket stage of the MCSR Ranked Playoffs. In the event of a tie in phase points, the higher seeding will go to the player with the higher final season elo. All players with Top 100 in Phase Point Leaderboard will be invited to a [Last-Chance Qualifier](./last_chance_qualifiers) to compete for the remaining 4 bracket positions.
 
-As the phases progress, you can receive more and more points, rewarding players who play consistently throughout the season. We may also sporadically run smaller events with the opportunity to earn extra points. 
+As the phases progress, players can receive more and more points, rewarding players who play consistently throughout the season. After Phase 2 has ended, all players with **__Top 100 in phase points leaderboard__** are invited to the [Midseason Showdown](./midseason_showdown) where they get a chance to earn extra points.
 
 ## Point Breakdowns
 

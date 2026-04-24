@@ -1,7 +1,7 @@
 # Main Bracket (Playoffs)
 
-The Main Bracket, also known as the **Playoffs**, will be a four-day event.  
-It will follow a 1v1 single-elimination format.
+The Main Bracket, also known as the **Playoffs**, is a four-day event.  
+It follows a 1v1 single-elimination format.
 
 ## Seeding System
 At the end of the season, the 12 players with the most **_phase points_** will be automatically invited and seeded 1 through 12 accordingly. Four additional players, seeded 13 through 16, will qualify through the [Last-Chance Qualifiers](./last_chance_qualifiers). Learn more about the phase point system [here](./phase_point).

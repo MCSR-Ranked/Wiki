@@ -1,6 +1,6 @@
 # Midseason Showdown
 The Midseason Showdown will be a one-day event.
-All players with **__Top 100 in phase points leaderboard__** by the end of [Phase 2](./phase_point) will be automatically invited. 
+All players with **__Top 100 in phase points leaderboard__** by the end of [Phase](./phase_point) 2 will be automatically invited. 
 By the end of the event, the top 10 players will earn [between 10 and 25 phase points](#rewards-distibution), which increase their chances of being invited to the next [Playoffs](./bracket). 
 Having 4 winners simulates the qualifier format at the end of the season.
 Learn more about the phase point system [here](./phase_point).
