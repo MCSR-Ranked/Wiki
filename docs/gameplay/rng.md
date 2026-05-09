@@ -32,8 +32,16 @@ This document will describe what is standardized based on RNG Seed.
 - Wool rates from sheep with shear uses are standardized
 
 ## Ender Dragon
-- Ender Dragon picks a standard node for zero cycle between 0-15 rather the regular 0-20 in vanilla, so it can still fly away, but the chance is lower and will be the same for all players in the match
-- Ender Dragon will force perch after 2 minutes 50 seconds (in-game time) from the spawned time or the last perched time
+- The sequence of target block height offsets is standardized within each phase
+  - The target block height offset for zero cycles is 0-15 blocks, as opposed to the 0-20 in vanilla
+- Direction changes are standardized within each phase
+- Strafes are standardized
+- Perches are standardized
+  ::: details Strafe/perch standardization details
+  When the dragon spawns and after each strafe, a standardized random number between 0 and 1 is chosen. The dragon strafes when the cumulative probability of having not yet strafed drops below the random number.
+
+  Perch standardization is similar, however the dragon also perches if the cumulative probability of having not yet perched drops below 0.1.
+  :::
 
 ## Mob Spawners
 - Blaze spawning timings are standardized
