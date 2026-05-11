@@ -37,12 +37,12 @@ This document will describe what is standardized based on RNG Seed.
 - The sequence of target block height offsets is standardized within each phase
   - The target block height offset for zero cycles is 0-15 blocks, as opposed to the 0-20 in vanilla
 - Direction changes are standardized within each phase
-- Strafes are standardized
-- Perches are standardized
+- Strafe rolls are standardized
+- Perch rolls are standardized
   ::: details Strafe/perch standardization details
-  When the dragon spawns and after each strafe, a standardized random number between 0 and 1 is chosen. The dragon strafes when the cumulative probability of having not yet strafed drops below the random number.
+  When the dragon spawns or rolls a strafe, a standardized random number between 0 and 1 is chosen. The dragon strafes when the probability of having not yet rolled a strafe drops below the random number.
 
-  Perch standardization is similar, however the dragon also perches if the cumulative probability of having not yet perched drops below 0.1.
+  Perch standardization is similar, however the dragon also perches if the probability of having not yet rolled a perch drops below 0.1.
   :::
 
 ## Mob Spawners
