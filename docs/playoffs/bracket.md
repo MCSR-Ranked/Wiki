@@ -28,13 +28,13 @@ In the bracket, players can choose from the same 5 seed types used in the MCSR R
 For more information on the seed types, check [here](/gameplay/seed#overworld-types).
 
 ### Pick
-Before starting first seed, top seeded player chooses first seed type.
-And then, loser of each seed picks the next seed type. However, loser can't pick the last seed typed played or any seed type have won on.
+Before starting the first seed, the top-seeded player chooses the first seed type.
+After each seed, the loser of the previous seed picks the next seed type. The loser cannot pick the most recently played seed type, or any seed type they have already won on.
 
 ### Summary
 To summarize, the seed ban and pick process is as follows:
 - First seed pick: Higher-seeded player
-- After each seed: The player who lost the previous seed picks the next seed, except last seed typed played or any seed type have they won.
-  - e.g) `A` player has picked the Village seed type for first seed, and lost in second seed with Shipwreck seed type, This A player can pick anything from every seed types[^Types] except those 2 types.
-  - In other words, a player can pick a seed type twice they have already played in that match. (technically, they must have lost with that seed type previously)
+- Next seed picks: Loser of the previous seed, who cannot pick the previous seed type or any seed type they have already won on.
+  - e.g. Higher-seeded Player `A` picked the Village seed type for the first seed and won the seed, but lost the second seed which was a Shipwreck. Player `A` can pick any seed type except those two types.[^Types] 
+  - In other words, a player can pick a seed type twice, as long as they lost in the first instance of it being played, and it is not the last played seed type.
 [^Types]: So, Buried Treasure, Desert Temple and Ruined Portal
