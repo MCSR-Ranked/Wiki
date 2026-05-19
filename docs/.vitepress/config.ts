@@ -149,6 +149,7 @@ export default defineConfig({
             { text: 'Weekly Race', link: '/weekly_race' },
             { text: 'Achievements', link: '/achievements' },
             { text: 'Replay System', link: '/replay_system' },
+            { text: 'Ranked Spectator Accounts', link: '/ranked_spectator_accounts' },
           ]
         }
       ],
