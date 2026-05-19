@@ -10,7 +10,7 @@ Weekly Race resets Monday at 12:00am UTC.
 
 The Weekly Race menu features the current week's leaderboard, up to the top 50 runs. The current week is listed at the top of the menu, with the option to view previous weeks' leaderboards. The time and date that Weekly Race resets is displayed in the user's local timezone, though note that the listed timezone may not match the timezone the user currently observes if in daylight savings or summer time.
 
-Clicking a run on the leaderboard gives the option to watch the [replay](./replay_system) for the run.
+Clicking a run on the leaderboard gives the option to watch the [replay](../technical/replay_system) for the run.
 
 ## Gameplay
 

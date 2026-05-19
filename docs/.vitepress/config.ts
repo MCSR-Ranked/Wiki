@@ -26,6 +26,11 @@ export default defineConfig({
         link: '/gameplay',
         activeMatch: '/gameplay'
       },
+      {
+        text: 'Technical',
+        link: '/technical',
+        activeMatch: '/technical'
+      },
       { 
         text: 'Playoffs',
         link: '/playoffs',
@@ -148,8 +153,18 @@ export default defineConfig({
             { text: 'Private Rooms', link: '/private_rooms' },
             { text: 'Weekly Race', link: '/weekly_race' },
             { text: 'Achievements', link: '/achievements' },
-            { text: 'Replay System', link: '/replay_system' },
+          ]
+        }
+      ],
+      '/technical': [
+        {
+          text: 'Technical',
+          link: '/',
+          base: '/technical',
+          items: [
+            { text: 'REST API', link: '/api' },
             { text: 'Ranked Spectator Accounts', link: '/ranked_spectator_accounts' },
+            { text: 'Replay System', link: '/replay_system' },
           ]
         }
       ],
