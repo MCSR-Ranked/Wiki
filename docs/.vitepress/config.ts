@@ -26,15 +26,15 @@ export default defineConfig({
         link: '/gameplay',
         activeMatch: '/gameplay'
       },
-      {
-        text: 'Technical',
-        link: '/technical',
-        activeMatch: '/technical'
-      },
       { 
         text: 'Playoffs',
         link: '/playoffs',
         activeMatch: '/playoffs'
+      },
+      {
+        text: 'Technical',
+        link: '/technical',
+        activeMatch: '/technical'
       },
       { 
         text: 'Contribute', 

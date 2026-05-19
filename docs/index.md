@@ -30,10 +30,14 @@ features:
     details: MCSR Ranked Playoffs are our official Minecraft Speedrunning Tournament. Learn more about it here.
     link: /playoffs
     linkText: Learn more
+  - title: Technical
+    icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m14.7 6.3l3 3"/><path d="M19 5a2.8 2.8 0 0 0-4 0l-9.5 9.5l-.8 4.8l4.8-.8L19 9a2.8 2.8 0 0 0 0-4Z"/><path d="M3 21h18"/><path d="m13 7l4 4"/></g></svg>
+    details: API references, RSA tooling, replay systems, and other docs for building MCSR Ranked tools.
+    link: /technical
+    linkText: Learn more
   - title: For Contributors
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 18a2 2 0 1 0 4 0a2 2 0 1 0-4 0M4 6a2 2 0 1 0 4 0a2 2 0 1 0-4 0m12 12a2 2 0 1 0 4 0a2 2 0 1 0-4 0M6 8v8"/><path d="M11 6h5a2 2 0 0 1 2 2v8"/><path d="m14 9l-3-3l3-3"/></g></svg>
     details: Are you interested in contributing to our pages? Learn more about guidelines and tutorials here.  
     link: /contribute
     linkText: Learn more
 ---
-
