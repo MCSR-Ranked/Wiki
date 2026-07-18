@@ -11,4 +11,4 @@
 
 ## Mod
 
-Modrinth page: http://modrinth.com/mod/mcsr-ranked
+Modrinth page: https://modrinth.com/mod/mcsr-ranked

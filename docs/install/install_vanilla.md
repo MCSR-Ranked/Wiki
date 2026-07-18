@@ -16,8 +16,8 @@ You do **NOT** need Fabric API, it is banned and none of the allowed mods use it
 :::
 
 ## Download the mods
-Download the MCSR Ranked mod from [the Modrinth page](http://modrinth.com/mod/mcsr-ranked)
-Additionally, it is recommended to get other allowed mods from https://mods.tildejustin.dev/.
+Download the MCSR Ranked mod from [the Modrinth page](https://modrinth.com/mod/mcsr-ranked)
+Additionally, it is recommended to get other allowed mods from https://mc.sr/mods/.
 
 Under Launcher > Installations 
 ![Installation folder](../install/img/ModsFolder.png) Create a new folder named "mcsr ranked" in this directory, and create a folder named "mods" inside that, 

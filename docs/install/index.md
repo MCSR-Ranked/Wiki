@@ -15,7 +15,7 @@ You can play with the MCSR Ranked mod on most popular launchers.
 ::: warning
 - Cracked launchers/accounts are **not** supported and will **not** work.
 - Clients that modify the game like Lunar are **not** allowed.
-- You can only use mods that [are allowed](https://mods.tildejustin.dev/) for speedrun.com.
+- You can only use mods that [are allowed](https://mc.sr/mods/) for speedrun.com.
 :::
 
 ✅ **Installation Method**:
