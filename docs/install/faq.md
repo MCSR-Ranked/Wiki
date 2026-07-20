@@ -7,7 +7,7 @@ Check the table of contents on the right, or just Ctrl-F, to search through this
 Credit to Ataraxia for writing the original version of this document.
 
 ::: tip
-  💬 Having issues? Feel free to ask in our [Discord server](https://mcsrranked.com/discord) in the <code>#public-help</code> channel.
+  💬 Having issues? Feel free to ask in our [Discord server](https://discord.mcsrranked.com) in the <code>#public-help</code> channel.
 :::
 
 ::: tip
@@ -88,7 +88,7 @@ If you're on the default launcher (macOS):
 - Go to `/Library/Application Support/minecraft`.
   - If you can't find this folder, enable [Show hidden files](https://nordlocker.com/blog/how-to-show-hidden-files-mac/).
 
-## How do I increase my brightness/gamma?
+## How do I increase my brightness/gamma? {#gamma}
 
 It is legal to set gamma to up to 5.0.
 
@@ -149,7 +149,7 @@ If you're on the default launcher:
 
 Alternatively, you can follow steps 1-5 of [this guide](https://obsproject.com/kb/minecraft-java-edition-troubleshooting).
 
-## I have worse performance than expected
+## I have worse performance than expected {#performance}
 
 This is usually caused by one or more of the following issues:
 
@@ -157,7 +157,7 @@ This is usually caused by one or more of the following issues:
 - [Using Java 8 instead of 17+](#update-java)
 - [Using the integrated GPU](#use-dgpu) (if you have multiple GPUs) for the Java version you're using
 
-## How do I add custom commands like `!elo` on Twitch?
+## How do I add custom commands like `!elo` on Twitch? {#elo-command}
 
 OshBot has some commands for Ranked like `+elo`, see [its documentation](https://bot.osh.gay/ranked/elo).
 
@@ -201,35 +201,35 @@ Follow [this guide](https://youtu.be/RmAmL7JhGJw) to set up boateye.
 
 You can join the Mac speedrunning Discord server [here](https://discord.gg/sczfsdE39W).
 
-## Is there a Discord server for ...?
+## Is there a Discord server for ...? (#discords)
 
 You can find a spreadsheet of MCSR Discord servers [here](https://docs.google.com/spreadsheets/d/1W5D6sxqBfIdyxS1pVEAi2ZaFhOhj4x-9bZwD39HbgLo).
 
 # Gameplay issues
 
-## My settings reset whenever I join a new world / Minecraft exits fullscreen whenever I join a new world
+## My settings reset whenever I join a new world / Minecraft exits fullscreen whenever I join a new world {#standardsettings}
 
 StandardSettings is a mod that resets your settings to specified values whenever you join a new world. You can find instructions on how to configure it [here](https://github.com/contariaa/StandardSettings). If you don't want your settings to reset, remove this mod from your mods folder.
 
-## Entity counter (E counter) stays at -1 / blockEntities doesn't appear when doing mapless or preemptive navigation
+## Entity counter (E counter) stays at -1 / blockEntities doesn't appear when doing mapless or preemptive navigation {#entity-culling}
 
 Go to Options > Video Settings and toggle Entity Culling off.
 
-## E-ray can't find far bastions
+## E-ray can't find far bastions {#entity-distance}
 
 Go to Options > Video Settings and set your Entity Distance to 500%.
 
-## Decreasing the render distance by 1 doesn't unload the spawner
+## Decreasing the render distance by 1 doesn't unload the spawner {#lazychunks}
 
 Spawners up to 3 chunks outside your render distance remain loaded and will still show up on the pie chart. This is why just dropping your render distance by 1 won't unload the spawner. You have to drop it by at least 4 to unload it.
 
 *Example: If the spawner loads in at 15 chunks, you should decrease your render distance to 11 (press Shift-F3-F four times), then increase it to 14 (press F3-F three times). Reopen the pie chart and the spawner should be gone.*
 
-## My buckets are glitchy / didn't pick up/place water
+## My buckets are glitchy / didn't pick up/place water {#ghostbucket}
 
 Ghost buckets occur if your crosshair moves from one block to another as you right click with a bucket. Keep your mouse still while you right click to prevent them from occurring.
 
-## Practice maps don't show up in the list of worlds
+## Practice maps don't show up in the list of worlds {#folderinafolder}
 
 Make sure your folder structure is correct:
 
@@ -237,7 +237,7 @@ Make sure your folder structure is correct:
   <img src="./img/folderinafolder.png" alt="folderinafolder.png" style="display: block; margin: 0 auto;">
 </div>
 
-## Water is invisible / block textures don't display properly
+## Water is invisible / block textures don't display properly {#multidraw}
 
 E.g.:
 
@@ -251,11 +251,11 @@ In the title screen, go to Options > Click the Book & Quill (top right) > Sodium
   Chunk Multidraw is a Sodium option that boosts performance. On a small percentage of GPUs, it will cause this issue, so you will have to disable it if you're having this issue.
 :::
 
-## I can't increase my render distance beyond 16 (or some other number)
+## I can't increase my render distance beyond 16 (or some other number) {#rd-cap-16}
 
 [Allocate more RAM](#allocate-ram).
 
-## Blocks don't drop / entities are frozen
+## Blocks don't drop / entities are frozen {#ghost-nether}
 
 (also referred to as an "internal server crash"; it's in this section because the game doesn't force quit like most crashes)
 
@@ -263,17 +263,17 @@ This is known as a ghost nether or phantom nether. Once you get this, if it isn'
 
 You can help us determine the cause of this issue. If you experience this, paste your [log file](#crashes) in #bug-report in the [Ranked discord server](https://discord.mcsrranked.com/).
 
-## Ninjabrain Bot appears like a zip file, double-clicking it doesn't run it
+## Ninjabrain Bot appears like a zip file, double-clicking it doesn't run it {#jarfix}
 
 If you're having issues with .jar programs on Windows, download and run **Jarfix.exe** from [this page](https://github.com/qMaxXen/Jarfix/releases/latest).
 
-## MiniPracticeKit doesn't work
+## MiniPracticeKit doesn't work {#mpkdebug}
 
 To troubleshoot MiniPracticeKit not working, please verify the following:
 - A file that's at least 20 KB named **exactly** "hotbar" or "hotbar.nbt", __not__ "hotbar (1).nbt" or similar, exists in your .minecraft folder.
 - You are pressing your **Hotbar slot 1** hotkey while holding your **Load hotbar** hotkey, and both of these aren't conflicting with other hotkeys.
 
-## I can't press F3 without holding Fn / some F3 keys don't work
+## I can't press F3 without holding Fn / some F3 keys don't work {#fnlock}
 
 Toggle Fn-lock on your pc <https://www.thewindowsclub.com/how-to-lock-and-unlock-function-fn-key-in-windows>. If you're on a Lenovo, the setting is in Lenovo Vantage > Device > Input & Accessories > Select F1-F12 function.
 
@@ -287,7 +287,7 @@ If you don't have an F3 key at all, which means you need to press Fn-3 to use F3
 
 If you are on Mac or Linux, see [#macos](#macos) or [#linux](#linux) for other resources.
 
-### Rebind Rules
+### Rebind Rules {#rebind-rules}
 
 You may remap keys using external programs, but:
 - Each game input may have only one key, and each key may cause only one game input
@@ -295,15 +295,15 @@ You may remap keys using external programs, but:
 - Inputs must be buttons - no scrolling the scroll-wheel or similar
 - Rebinding "Attack/Destroy" or "Use Item/Place Block" to a keyboard button in order to abuse as an autoclicker is not allowed
 
-## How can I disable the narrator?
+## How can I disable the narrator? {#narrator}
 
 Go to the Ranked main menu ⟶ **Settings** and set "Narrator Hotkey" to **OFF**.
 
-## How do I access the timer settings?
+## How do I access the timer settings? {#srigt-settings}
 
 Go to Options -> click the Book & Quill (top right) -> SpeedRunIGT.
 
-## Can I practice seeds filtered with this mod?
+## Can I practice seeds filtered with this mod? {#singleplayer}
 
 You can practice by playing in matches (ranked, casual, or private rooms), or by recreating worlds saved to singleplayer (i.e. seeds you have played in previous matches).
 
@@ -311,7 +311,7 @@ Playing by yourself in private rooms is possible only with a [paid supporter tie
 
 [FSG mod](https://modrinth.com/mod/fsg-mod) is a different mod with different filters that allows you to play filtered seeds.
 
-## I was teleported immediately after entering the nether (and took some fall damage / can't find my nether portal)
+## I was teleported immediately after entering the nether (and took some fall damage / can't find my nether portal) {#nether-bonking}
 
 You were likely nether-bonked. This is when the game forgets to divide your coordinates by 8 when putting you in the nether from the overworld. It's caused by going through a nether portal while left-clicking, so don't hold down left-click at the time the portal animation finishes.
 
@@ -334,7 +334,7 @@ If Minecraft crashes, you should paste your log to the [log analyzer website](ht
 - The crash report can sometimes be found in .minecraft/crash-reports, with the date of the crash in its file name. It contains a little more information about the crash itself, but the log file is usually sufficient to diagnose issues.
 - If there's an error message, sending a screenshot of that would be helpful too, in case there isn't a crash report generated.
 
-The following sections will go through common issues. "Symptoms" means things to look for if you're not sure what crash it is.
+The following sections will go through some issues. "Symptoms" means things to look for if you're not sure what crash it is. This is mostly included for those who may be interested; it's not meant to be extensive, and the above is a way better way to diagnose a crash.
 
 ## Exit codes
 

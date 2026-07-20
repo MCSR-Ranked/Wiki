@@ -199,7 +199,7 @@ export default defineConfig({
         ariaLabel: 'Back to Homepage'
       },
       { icon: 'github', link: 'https://github.com/MCSR-Ranked/Wiki', ariaLabel: 'Wiki Repository' },
-      { icon: 'discord', link: 'https://mcsrranked.com/discord', ariaLabel: 'Discord' },
+      { icon: 'discord', link: 'https://discord.mcsrranked.com', ariaLabel: 'Discord' },
       { icon: 'x', link: 'https://mcsrranked.com/x', ariaLabel: "X (Twitter)" },
     ],
 
