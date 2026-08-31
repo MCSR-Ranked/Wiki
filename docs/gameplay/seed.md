@@ -22,7 +22,6 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Village
 - Spawns within 7 chunks
-  - Always generated at positive coordinates for X and Z
 - Contains a guaranteed Blacksmith*
 - 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with Blacksmith lava
 - Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
@@ -34,7 +33,6 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Shipwreck
 - Spawns within 4 chunks
-  - Always generated at positive coordinates for X and Z
 - 2 Magma Ravines are guaranteed within 10 chunks of the Shipwreck
   - Filtered Magma Ravines are not generated in Frozen Ocean Biomes
 - At least 7 Iron (or 4 Iron + 3 Diamonds) and some food in food chest
@@ -44,7 +42,6 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Desert Temple
 - Spawns within 5 chunks
-  - Always generated at positive coordinates for X and Z
 - 3 lava pools are guaranteed near the temple
 - Artificial lava pools look similar to vanilla and are the 3 guaranteed ones! There may be more vanilla lava pools but the artificial ones are guaranteed.
 - At least 7 Iron (or 4 Iron + 3 Diamonds)
@@ -53,7 +50,6 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Ruined Portal
 - Spawns within 3 chunks
-  - Always generated at positive coordinates for X and Z
 - Enterable with Obsidian or Bucket (50/50)
 - There's a chance that there won’t be enough Iron for an Iron Pickaxe
 - Food in chest or animals within 5 chunks with a Flint and Steel / Fire Aspect Sword
@@ -62,7 +58,6 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 
 ### Buried Treasure
 - Spawns within 5 chunks
-  - Always generated at positive coordinates for X and Z
 - 2 Magma Ravines are guaranteed within 10 chunks of the Buried Treasure
   - Filtered Magma Ravines are not generated in Frozen Ocean Biomes
 - At least 7 Iron (or 4 Iron + 3 Diamonds)
