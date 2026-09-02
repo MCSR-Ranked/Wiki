@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t}from"./chunks/framework.BXzK3EA4.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gameplay/rules.md","filePath":"gameplay/rules.md","lastUpdated":1788364293000}'),r={name:"gameplay/rules.md"};function s(o,c,l,n,p,d){return a(),t("div")}const i=e(r,[["render",s]]);export{_ as __pageData,i as default};
