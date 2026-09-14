@@ -72,7 +72,7 @@ In Private Rooms, the seed type distribution is the same as in the 1200+ Elo ran
 - Intended Bastion Remnant is within 14 chunks of 0,0*
 - Open terrain check from approximate nether entry to the Bastion Remnant
 - Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests (or any chest for housing)
-- Stables Bastion Remnant has at least 1 good gap
+- Stables Bastion Remnant either has 2 good gaps, or 1 good gap and at least one triple chest rampart
 
 *This means that the X coordinate is 0 and Z coordinate is 0. (0, 0)
 
