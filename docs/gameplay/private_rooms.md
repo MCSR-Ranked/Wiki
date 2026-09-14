@@ -40,18 +40,18 @@ Going to Options > Rules in a Private Room shows the game rules. Listed below ar
 | Rules | Explanation | &nbsp;&nbsp;Default&nbsp;&nbsp;<br>(ON/OFF) |
 | --- | --- | :---: |
 | Disable Public Replay | Disables saving replay on the server. | OFF |
-| Force Rejoin with Reconnection || OFF |
-| Use Player Ready System || OFF |
-| Standardized Portal Lit by Fire || OFF |
-| Beginner Mode || OFF |
-| Display Filtered Seed Type || ON |
-| Allow Use Cheat Commands || OFF |
-| Use Filtered Seed || ON |
-| Reduce Waiting Time || ON |
-| Show Advancement Messages || ON |
-| Show Advancement Only Once || OFF |
-| Send World Reset Message || OFF |
-| IGT Mode || OFF |
+| Force Rejoin with Reconnection | If the player reconnects to the server after instance restart and without forfeiting or leaving the room, the player can continue playing in the room with the seed reset. | OFF |
+| Use Player Ready System | Players in the room can toggle a ready status to indicate whether they are ready. Only the hosts can see which players are ready. | OFF |
+| Standardized Portal Lit by Fire | (EXPERIMENTAL!) Standardizes the amount of time it takes for a portal to get lit. | OFF |
+| Beginner Mode | Keep inventory is enabled and the players respawnpoint is set to the position the player was in when the last split changed. | OFF |
+| Display Filtered Seed Type | Displays the seed type on the countdown screen. Not shown for set seeds or non-filtered seeds. | ON |
+| Allow Use Cheat Commands | Allows the player to use all commands. | OFF |
+| Use Filtered Seed | If you leave the world seed text input blank, you will be given a filtered random seed. | ON |
+| Reduce Waiting Time | Reduces the timer on the countdown screen from 10 seconds to 5 seconds. | ON |
+| Show Advancement Messages | When any player completes an advancement, their advancement message will be displayed. | ON |
+| Show Advancement Only Once | Advancement messages will be displayed only once for each advancement, and will no longer be displayed if someone has already completed the same advancement. | OFF |
+| Send World Reset Message | Sends a message to all players when a player resets the world. | OFF |
+| IGT Mode | Changes the final time to use IGT instead of RTA. If the 'Waiting All Completion' option is disabled, the player with the first completion will still win. | OFF |
 | Modified Portal Behaviors || ON |
 | Remove Block Entities From Spawn || ON |
 | Generate Artificial Lava Pools || ON |
