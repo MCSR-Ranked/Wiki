@@ -11,4 +11,3 @@ This section covers how Ranked matches work, as wells as information relating to
 - [Private Rooms](./private_rooms)
 - [Weekly Race](./weekly_race)
 - [Achievements](./achievements)
-- [Replay System](./replay_system)

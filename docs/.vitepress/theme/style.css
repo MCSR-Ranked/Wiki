@@ -49,3 +49,13 @@
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
 }
+
+@media (min-width: 1280px) {
+  .VPHome .VPFeatures .container {
+    max-width: 1440px;
+  }
+
+  .VPHome .VPFeatures .item.grid-4 {
+    width: 20%;
+  }
+}
