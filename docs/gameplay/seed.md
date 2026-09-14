@@ -72,7 +72,9 @@ In Private Rooms, the seed type distribution is the same as in the 1200+ Elo ran
 - Closest Bastion Remnant is always the intended Bastion Remnant, it will be at least 10 chunks closer than any other Bastion Remnant to 0,0*
 - Intended Bastion Remnant is within 14 chunks of 0,0*
 - Open terrain check from approximate nether entry to the Bastion Remnant
-- Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests (or any chest for housing)
+- Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests
+  - For Housing this can be in any chest
+  - For Bridge the Iron can be in the Lodestone chest
 - Stables Bastion Remnant has at least 1 good gap
 
 *This means that the X coordinate is 0 and Z coordinate is 0. (0, 0)
