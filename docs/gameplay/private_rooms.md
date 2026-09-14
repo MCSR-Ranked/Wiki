@@ -52,14 +52,14 @@ Going to Options > Rules in a Private Room shows the game rules. Listed below ar
 | Show Advancement Only Once | Advancement messages will be displayed only once for each advancement, and will no longer be displayed if someone has already completed the same advancement. | OFF |
 | Send World Reset Message | Sends a message to all players when a player resets the world. | OFF |
 | IGT Mode | Changes the final time to use IGT instead of RTA. If the 'Waiting All Completion' option is disabled, the player with the first completion will still win. | OFF |
-| Modified Portal Behaviors || ON |
-| Remove Block Entities From Spawn || ON |
-| Generate Artificial Lava Pools || ON |
-| Disable Mining Fatigue || ON |
-| Modified Piglin Barters || ON |
-| No Monster Spawn in Bastion || ON |
-| Standardized Dragon Perch || ON |
-| Dragon Perch Immediately || OFF |
+| Modified Portal Behaviors | See [here](./rng#player-portal-behaviors) for the modified Nether Portal Behavior. | ON |
+| Remove Block Entities From Spawn | Removes all block entities from Dungeons, Ocean Ruins and Mineshafts around spawn.| ON |
+| Generate Artificial Lava Pools | Artificially generated lava pools around villages and desert temples. | ON |
+| Disable Mining Fatigue | Disables the mining fatigue effect from Elder Guardians. | ON |
+| Modified Piglin Barters | See [here](./rng#piglin-barters) for the modified Piglin Barters. | ON |
+| No Monster Spawn in Bastion | Prevents Monsters from spawning in Bastion Remnants. | ON |
+| Standardized Dragon Perch | See [here](./rng#ender-dragon) for the details. | ON |
+| Dragon Perch Immediately | The Ender Dragon will start perching as fast as possible. | OFF |
 | Disable F3 Screen || OFF |
 | Disable Copy Location || OFF |
 | Disable F3 Debug Features || OFF |
