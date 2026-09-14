@@ -34,3 +34,9 @@ The standardizations listed below are relevant for some of the categories that c
 - Rain/thunderstorm cycle is standardized
   - Also thunderstorms are more frequent
 - Phantoms spawn and cycle are standardized
+
+## Game Rules
+Going to Options > Rules in a Private Room shows the game rules. Listed below are all the rules with their explanation and default setting.
+| Rules | Explanation | &nbsp;&nbsp;Default&nbsp;&nbsp;<br>(ON/OFF) |
+| --- | --- | :---: |
+| Disable Public Replay | Disables saving replay on the server. | OFF |
