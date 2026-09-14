@@ -40,3 +40,33 @@ Going to Options > Rules in a Private Room shows the game rules. Listed below ar
 | Rules | Explanation | &nbsp;&nbsp;Default&nbsp;&nbsp;<br>(ON/OFF) |
 | --- | --- | :---: |
 | Disable Public Replay | Disables saving replay on the server. | OFF |
+| Force Rejoin with Reconnection || OFF |
+| Use Player Ready System || OFF |
+| Standardized Portal Lit by Fire || OFF |
+| Beginner Mode || OFF |
+| Display Filtered Seed Type || ON |
+| Allow Use Cheat Commands || OFF |
+| Use Filtered Seed || ON |
+| Reduce Waiting Time || ON |
+| Show Advancement Messages || ON |
+| Show Advancement Only Once || OFF |
+| Send World Reset Message || OFF |
+| IGT Mode || OFF |
+| Modified Portal Behaviors || ON |
+| Remove Block Entities From Spawn || ON |
+| Generate Artificial Lava Pools || ON |
+| Disable Mining Fatigue || ON |
+| Modified Piglin Barters || ON |
+| No Monster Spawn in Bastion || ON |
+| Standardized Dragon Perch || ON |
+| Dragon Perch Immediately || OFF |
+| Disable F3 Screen || OFF |
+| Disable Copy Location || OFF |
+| Disable F3 Debug Features || OFF |
+| Disable Forfeit || OFF |
+| Disable Reset || OFF |
+| Icarus Mode || OFF |
+| Half-Heart Mode || OFF |
+| Hardcore Mode || OFF |
+| Disable Modified Loot Tables || OFF |
+| Replace Zombie Spawner || ON |
