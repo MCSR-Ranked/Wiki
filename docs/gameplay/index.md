@@ -12,3 +12,5 @@ This section covers how Ranked matches work, as wells as information relating to
 - [Weekly Race](./weekly_race)
 - [Achievements](./achievements)
 - [Replay System](./replay_system)
+- [Rules](./rules)
+- [Ranked Spectator Accounts](./ranked_spectator_accounts)
