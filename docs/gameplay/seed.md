@@ -76,7 +76,8 @@ In Private Rooms, the seed type distribution is the same as in the 1200+ Elo ran
 - Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests
   - For Housing this can be in any chest
   - For Bridge the Iron can be in the Lodestone chest
-- Stables Bastion Remnant has at least 1 good gap
+- Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests (or any chest for housing)
+- Stables Bastion Remnant either has 2 good gaps, or 1 good gap and at least one triple chest rampart
 
 *This means that the X coordinate is 0 and Z coordinate is 0. (0, 0)
 
