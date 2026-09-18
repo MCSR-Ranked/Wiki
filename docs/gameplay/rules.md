@@ -37,6 +37,7 @@ Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft A
 <!-- ### Sheets, wikis etc -->
 
 ## Glitches
+This list might be outdated, for the updated list on all allowed/disallowed glitches see Ruleset D of [mc.sr/rules](https://mc.sr/rules).
 ### Allowed Glitches
 - Pearl clipping
 - Seeing under water or lava using third person
@@ -61,6 +62,6 @@ Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft A
 - Shift clutch<!-- - Desynced lava blip-->
 - Ghost scaffolding
 - Ghost blocks<!-- - Dragon skip-->
-- Attribute swapping<!-- - Boat desync-->
+- Attribute swapping<!-- - Boat desync--><br><br>
 
 Reminder: these are not the full rules, but they should suffice for the average player.
