@@ -20,7 +20,7 @@ After done with [placement matches](#placement-matches), Players can increase th
 
 ## Elo Decay
 
-Players who are in the top 150 on the [Elo Leaderboard](https://mcsrranked.com/stats) are at risk of Elo Decay. If they haven't played a Ranked match for 7 days, they will lose 5 Elo for each inactive day.
+Players who are in the top 150 on the [Elo Leaderboard](https://mcsrranked.com/stats) are at risk of Elo Decay. They have a Decay timer that starts at 7.5 days. Playing a match adds 24 hours to the timer. When the Decay timer hits 0, the player loses 5 Elo every day until they play another match. 
 
 ## Ranks
 
@@ -30,7 +30,7 @@ The playerbase is separated into 6 Ranks.
 | :---------: | :-------: | -----
 | 0 ~ 599     | Coal      | Lowest rank in the game.
 | 600 ~ 899   | Iron      | Unlocks Ruined Portals as a seed type.
-| 900 ~ 1199  | Gold      | Most common rank.
+| 900 ~ 1199  | Gold      | Unlocks Snowy and Taiga Village types.
 | 1200 ~ 1499 | Emerald   | Unlocks Buried Treasures as a seed type.
 | 1500 ~ 1999 | Diamond   | This roughly represents the top 5% of players.
 | 2000+       | Netherite | This roughly represents the top 0.5% of players.
@@ -43,4 +43,4 @@ They are further separated into Divisions as follows:
 
 On a season end, all players will become unranked and have to play [placement matches](#placement-matches) to receive their new Elo.
 
-Seasons are separated by (usually) 4 phases, each a month long. See all about the phase system here: [Phase Points](../playoffs/phase_point.md)
+Seasons are separated by 4 phases, each a month long. See all about the phase system here: [Phase Points](../playoffs/phase_point.md)

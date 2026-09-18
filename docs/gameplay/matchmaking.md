@@ -5,6 +5,7 @@ When playing MCSR Ranked, you will be placed in a match against one other player
 
 ## Wait Times
 In ranked mode you can expect to wait around 1 to 3 minutes to find a match. It is likely to take significantly longer if you have a particularly high or low Elo rating.
+The longer you have to wait, the more your queue range expands. The maximum queue range is either ±250 Elo or ±50 Ranks.
 
 In casual mode, queue times are also significantly longer than in ranked mode unless you turn on the setting “Unlimited Casual Queue” detailed below.
 

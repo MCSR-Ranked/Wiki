@@ -8,13 +8,14 @@ MCSR Ranked uses its own Seed Filter to select vanilla seeds which satisfy certa
 For more efficient filtering and usability, the overworld and nether are filtered via independent seeds. Therefore, strategies that can infer some RNG in the Nether, such as the Divine Travel strategy, will not work.
 
 ## Seed Type Distribution
-|    Elo*    | Village | Shipwreck | Desert Temple | Ruined Portal | Buried Treasure |
-| :--------: | :-----: | :-------: | :-----------: | :-----------: | :-------------: |
-|  0 ~ 599   |   55%   |    15%    |      30%      |      0%       |       0%        |
-| 600 ~ 1199 |   30%   |    25%    |      25%      |      20%      |       0%        |
-|   1200+    |   20%   |    20%    |      20%      |      20%      |       20%       |
+|    Elo*    | Village** | Shipwreck | Desert Temple | Ruined Portal | Buried Treasure |
+| :--------: | :-------: | :-------: | :-----------: | :-----------: | :-------------: |
+|  0 ~ 599   |    55%    |    15%    |      30%      |      0%       |       0%        |
+| 600 ~ 1199 |    30%    |    25%    |      25%      |      20%      |       0%        |
+|   1200+    |    20%    |    20%    |      20%      |      20%      |       20%       |
 
-*Based on the lowest Elo of all players in the match.
+*Based on the lowest Elo of all players in the match. <br>
+**Snowy and Taiga Villages only appear at 900+ Elo.
 
 In Private Rooms, the seed type distribution is the same as in the 1200+ Elo range.
 
@@ -24,6 +25,7 @@ In Private Rooms, the seed type distribution is the same as in the 1200+ Elo ran
 - Spawns within 7 chunks
 - Contains a guaranteed Blacksmith*
 - At least 7 Iron (or 4 Iron + 3 Diamonds) (including golem) with food in chests or haybales
+  - With 10+ Obsidian the only guaranteed Iron is from the golem
 - Iron Golem always drops 4 Iron (never 3 or 5)
 - A River Biome is guaranteed within 6 chunks of the center of the village
 - 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with Blacksmith lava
@@ -71,7 +73,9 @@ In Private Rooms, the seed type distribution is the same as in the 1200+ Elo ran
 - Closest Bastion Remnant is always the intended Bastion Remnant, it will be at least 10 chunks closer than any other Bastion Remnant to 0,0*
 - Intended Bastion Remnant is within 14 chunks of 0,0*
 - Open terrain check from approximate nether entry to the Bastion Remnant
-- Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests (or any chest for housing)
+- Intended Bastion Remnant always has 3+ Iron and 5+ Obsidian somewhere in the ramparts' chests
+  - For Housing this can be in any chest
+  - For Bridge the Iron can be in the Lodestone chest
 - Stables Bastion Remnant either has 2 good gaps, or 1 good gap and at least one triple chest rampart
 
 *This means that the X coordinate is 0 and Z coordinate is 0. (0, 0)
