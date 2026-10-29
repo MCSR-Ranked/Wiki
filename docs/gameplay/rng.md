@@ -47,6 +47,7 @@ This document will describe what is standardized based on RNG Seed.
 - Zombified Piglins avoid pathfinding into Bastion Remnants
 - Magma Cube splitting amount is standardized
 - Ghasts do not spawn within 5 chunks of the player
+- Mob spawns are standardized by position
 
 ## Mob Spawners
 - Magma Cube spawning positions and sizes are standardized 
@@ -67,6 +68,10 @@ Every portal is treated like you are building on Y64 in the overworld, however t
 - The amount of already filled in End Portal Frames per End Portal is the same between all Strongholds.
 
 *First portal from Nether for travel to Stronghold.
+
+## Stronghold
+All the strongholds in the seed generate with the same rooms and the same layout. 
+Strongholds can still be slightly different because of caves, dungeons and mineshafts.
 
 ## Ender Dragon
 - The sequence of target block height offsets is standardized within each phase
