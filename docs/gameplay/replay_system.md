@@ -12,13 +12,7 @@ Pressing the Escape key will bring up a bar which shows the progression of the r
 
 Clicking along this bar allows you to skip to different parts of the run.
 
-You can pause by clicking the pause button, or pressing space while the progression bar is open. You can also skip forwards and backwards by using the arrow keys when the progression bar is open.
-
-Pressing Live Replay Settings lets you switch between which player you spectate, as well as allowing you to change the opacity and glowing distance of the player.
-
-You can move around freely in replay mode unless you turn on Live Replay Settings > Spectator Camera, which locks your view to the player.
-
-Many of these options are available in the spectator bar which is accessed by pressing any hotbar hotkey in game. Additional options can be found by pressing your 8 slot hotkey twice, which brings you to the next page, where you can increase or decrease the game speed and also toggle the visibility of player names.
+You can find the Replay Tutorial and the Replay Controls in the Game Menu.
 
 ## Downloading Replays
 - Replays are deleted after 7 days unless they are downloaded.
