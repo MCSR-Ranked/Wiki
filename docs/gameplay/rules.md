@@ -58,6 +58,8 @@ This list might be outdated, for the updated list on all allowed/disallowed glit
 - Altered Fast looting<!-- -Force fast dragon fly by hiding--><!-- - Projectile dodging by projectile spawning inside player hitbox-->
 - Planar fog abuse
 - Ghost bucket
+- Bedcrawl
+- Airplace
 
 ### Disallowed Glitches
 - X-Ray
@@ -67,3 +69,4 @@ This list might be outdated, for the updated list on all allowed/disallowed glit
 - Attribute swapping<!-- - Boat desync--><br><br>
 
 Reminder: these are not the full rules, but they should suffice for the average player.
+
