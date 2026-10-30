@@ -2,7 +2,7 @@
 
 ## Explanation 
 See the [Ranked Guidelines](https://mcsrranked.com/guidelines) for the rules/guidelines specific to playing ranked. <br>
-Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft Any% Glitchless. This page is a summarization of the SRC rules and focuses on rules relevant to ranked. See [mc.sr/rules](https://mc.sr/rules) for the Official Rule Document.
+Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft Any% Glitchless. This page is a summarization of the SRC rules and focuses on rules relevant to Ranked. See [mc.sr/rules](https://mc.sr/rules) for the Official Rule Document.
 
 ## Allowed Launchers
 - [Prism Launcher](https://mcsrranked.com/download) (recommended)
@@ -10,6 +10,8 @@ Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft A
 - [MCSR Launcher](https://mcsrlauncher.github.io/) (beta)
 - [Modrinth App](https://modrinth.com/app)
 - [ATLauncher](https://atlauncher.com/)
+- [Pandora Launcher](https://pandora.moulberry.com/)
+- [Nixcraft](https://github.com/loystonpais/nixcraft)
 - [Official Minecraft Launcher](https://www.minecraft.net/en-us/download) (heavily discouraged)
 
 ## Rebind Rules
@@ -27,10 +29,10 @@ Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft A
 
 ## External Resource Rules
 ### Legal Tools
-- [Ninjabrainbot](https://github.com/Ninjabrain1/Ninjabrain-Bot/releases/tag/1.5.2) ([tutorial](https://youtu.be/l-q-_4R8_6M?t=713))
+- [Ninjabrainbot](https://github.com/Ninjabrain1/Ninjabrain-Bot/releases/latest) ([tutorial](https://youtu.be/l-q-_4R8_6M?t=713))
 - [Toolscreen](https://github.com/jojoe77777/Toolscreen/releases/latest) ([tutorial](https://youtu.be/YqS-fxPx_jo))
 - [Jingle](https://github.com/DuncanRuns/Jingle/releases#release-v1.3.0)
-- [SlackowWall](https://github.com/Slackow/SlackowWall/releases/tag/v1.4.9)
+- [SlackowWall](https://github.com/Slackow/SlackowWall/releases/latest)
 - [Resetti](https://github.com/tesselslate/resetti)
 - [Waywall](https://tesselslate.github.io/waywall)
 
