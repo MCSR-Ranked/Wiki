@@ -1,6 +1,6 @@
 # Last-Chance Qualifiers
-The Playoffs Last-Chance Qualifiers (referred to as simply Qualifiers) will be a one-day event. 
-All players within the **__Top 100 in the phase points leaderboard__** from last season will be automatically invited, unless they are already automatically qualified for the Playoffs Bracket. Learn more about the phase point system [here](./phase_point).
+The Playoffs Qualifier is a one-day event. 
+All players with **__Top 100 in phase points leaderboard__** from last season will be automatically invited. Learn more about the phase point system [here](./phase_point).
 
 The 4 winners at the end of the event will earn a spot in the Playoffs Bracket. It is imperative that players only participate in the Qualifiers if they are certain they can make the dates for the next stage of the Playoffs. The 4 winners will be seeded in the bracket based on the phase points leaderboard as opposed to Qualifiers performance.
 
