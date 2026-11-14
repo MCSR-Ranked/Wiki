@@ -8,7 +8,7 @@ If there are no issues, it will be applied to the page. In some cases, you may b
 
 ![](./img/review.png)
 
-You can apply the suggestion to your request. If you don't agree with the suggestion, leave a comment or discuss it in the [Discord server](https://discord.mcsrranked.com).
+You can apply the suggestion to your pull request. If you don't agree with the suggestion, leave a comment or discuss it in the [Discord server](https://discord.mcsrranked.com).
 
 ---
 
