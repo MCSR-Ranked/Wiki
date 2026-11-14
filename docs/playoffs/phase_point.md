@@ -1,11 +1,11 @@
 # Phase Point System
 
 ## System Explanation
-Each season is split into **4**, month-long, phases. You will only need to do placement games at the beginning of each season; new phases will not impact your elo. These phases serve to qualify for the [MCSR Ranked Playoffs](./bracket) at the end of each season.
+Each season is split into **4** month-long phases. You will only need to do placement games at the beginning of each season; new phases will not impact your elo. These phases serve to qualify players for the [MCSR Ranked Playoffs](./bracket) at the end of each season.
 
-Your placement at the end of each phase will reward you with a certain amount of **Phase Points**, which will be displayed on your profile. At the end of the season, the Top 12 players with the most points will be automatically invited to the bracket stage of the MCSR Ranked Playoffs. In the event of a tie in phase points, the higher seeding will go to the player with the higher final season elo. All players with Top 100 in Phase Point Leaderboard will be invited to a [Last-Chance Qualifier](./last_chance_qualifiers) to compete for the remaining 4 bracket positions.
+Your placement on the elo leaderboard at the end of each phase will reward you with a certain amount of **Phase Points**, which will be displayed on your profile. At the end of the season, the Top 12 players with the most points will be automatically invited to the bracket stage of the MCSR Ranked Playoffs. In the event of a tie in phase points, the higher seeding will go to the player with the higher final season elo. All players with Top 100 in Phase Point Leaderboard will be invited to a [Last-Chance Qualifier](./last_chance_qualifiers) to compete for the remaining 4 bracket positions.
 
-As the phases progress, players can receive more and more points, rewarding players who play consistently throughout the season. After Phase 2 has ended, all players with **__Top 100 in phase points leaderboard__** are invited to the [Midseason Showdown](./midseason_showdown) where they get a chance to earn extra points.
+Players receive more phase points in subsequent phases. After Phase 2 has ended, all players with **__Top 100 in phase points leaderboard__** are invited to the [Midseason Showdown](./midseason_showdown) where they get a chance to earn extra points.
 
 ## Point Breakdowns
 
