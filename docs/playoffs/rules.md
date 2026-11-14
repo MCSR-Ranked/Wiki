@@ -10,7 +10,7 @@
     - The world seed will be set
         - The world seeds used for the Playoffs are generated using the MCSR Ranked seed filter and additionally hand checked for adequate playability
 4. Scheduling for the Playoffs will be communicated as early as possible and will generally follow the rules below.
-    - The Playoff Qualifiers (referred to as simply Qualifiers) will be held on a Saturday following the ending of the current MCSR Ranked season.
+    - The Playoff Last-Chance Qualifiers (referred to as simply Qualifiers) will be held on a Saturday following the ending of the current MCSR Ranked season.
     - The Playoff Bracket (referred to as simply Bracket) will be held over the next two weekends following the Qualifiers.
     - The first weekend will contain four best-of-5 matches on both Saturday and Sunday - combining to form the Round of 16 of the Bracket.
     - The second weekend will contain the rest of the Bracket matches. Saturday will have all four Quarterfinals best-of-5 matches, and Sunday will have both Semifinals best-of-5 matches, the best-of-5 Third Place Match, and the best-of-7 Grand Finals match.
