@@ -9,12 +9,12 @@
 3. The Playoffs will be played on the latest official release of the MCSR Ranked mod unless otherwise stated. Normal MCSR Ranked rules will apply to each Playoffs seed and match, with the exception of the following change:
     - The world seed will be set.
         - The world seeds used for the Playoffs are generated using the MCSR Ranked seed filter, though with a separate seed pool.
-4. Scheduling for the Playoffs will be communicated as early as possible and will generally follow the rules below.
-    - The Playoffs Last-Chance Qualifiers (referred to as simply Qualifiers) will be held on a Saturday following the ending of the current MCSR Ranked season.
-    - The Playoffs Bracket (referred to as simply Bracket) will be held over the next two weekends following the Qualifiers.
+4. Players will be required to be available for the full duration of all Playoffs dates for ease of scheduling matches.
+    - The Playoff Last-Chance Qualifiers (referred to as simply Qualifiers) will be held on a Saturday following the ending of the current MCSR Ranked season.
+    - The Playoff Bracket (referred to as simply Bracket) will be held over the next two weekends following the Qualifiers.
     - The first weekend will contain the 8 Round of 16 matches of the Bracket. 4 best-of-5 matches will occur on both Saturday and Sunday.
     - The second weekend will contain the rest of the Bracket matches. Saturday will have all 4 Quarterfinals best-of-5 matches, and Sunday will have the 2 Semifinals best-of-5 matches, the best-of-5 Third Place Match, and the best-of-7 Grand Finals Match.
-5. Players will be required to be available for the full duration of all Playoffs dates for ease of scheduling matches.
+5. Players will be required to be available for the full duration of all dates of the Playoffs for ease of scheduling matches.
 6. Players will also be required to participate in media sessions when asked.
     - These include (but are not limited to) individual player interviews, group interviews, various potential minigames between competing players, etc.
     - Players will be required to use a microphone, and will be encouraged to use a webcam when applicable.
