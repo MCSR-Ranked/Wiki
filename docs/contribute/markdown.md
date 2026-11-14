@@ -1,21 +1,21 @@
 # Markdown Format
-This project is using Markdown Extensions format, for the most parts.<br> 
+This project uses the Markdown Extensions format, for the most part.<br> 
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
 
 ## Underlined Text
 ```md
-__This is example__
+__This is an example__
 ```
-__This is example__
+__This is an example__
 
 ## Footnotes
 ```md
-This is example[^1]
-[^1]: Example is here!
+This is an example[^1]
+[^1]: The example is here!
 ```
 
-This is example[^1]
-[^1]: Example is here!
+This is an example[^1]
+[^1]: The example is here!
 
 ## YouTube Video Embed
 ```md

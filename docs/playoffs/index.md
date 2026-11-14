@@ -1,10 +1,10 @@
 # MCSR Ranked - Playoffs
-MCSR Ranked Playoffs are our official Speedrunning Tournament with 16 players bracket!
-You can find all VODs of Playoffs from [Official YouTube channel](https://www.youtube.com/@MCSR_Ranked/playlists).
+MCSR Ranked Playoffs is our official Speedrunning Tournament featuring a 16 player bracket!
+You can find all Playoffs VODs from [the Official YouTube channel](https://www.youtube.com/@MCSR_Ranked/playlists).
 
 ### Index
+- [Tournament Rules](./rules#general-tournament-rules)
 - [Phase Point System Explanation](./phase_point)
-- [General Tournament Rules](./rules#general-tournament-rules)
 - MCSR Ranked Playoffs
     - [Format](./bracket)
     - [Rules](./rules#bracket-rules)

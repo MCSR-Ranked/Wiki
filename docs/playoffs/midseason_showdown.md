@@ -1,11 +1,10 @@
 # Midseason Showdown
-The Midseason Showdown will be a one-day event.
-All players with **__Top 100 in phase points leaderboard__** by the end of [Phase](./phase_point) 2 will be automatically invited. 
-By the end of the event, the top 10 players will earn [between 10 and 25 phase points](#rewards-distibution), which increase their chances of being invited to the next [Playoffs](./bracket). 
-Having 4 winners simulates the qualifier format at the end of the season.
-Learn more about the phase point system [here](./phase_point).
+The Midseason Showdown is a one-day event.
+All players with **__Top 100 in the phase points leaderboard__** by the end of [Phase](./phase_point) 2 will be automatically invited. Learn more about the phase point system [here](./phase_point).
 
-Players will have 15 minutes for each seed, or until up to 24 players have completed the seed, whichever comes first. Players who complete the seed will earn up to 24 points based on their placement. The point distribution will scale evenly depending on the number of possible completions for that round (max of 24).
+By the end of the event, players with points in the top 10 will earn [between 10 and 25 phase points](#rewards-distibution), which increase their chances of being invited to the next [Playoffs](./bracket). Having 4 winners simulates the Qualifiers format at the end of the season.
+
+Each seed finishes after 15 minutes, or when 24 players have completed the seed, whichever comes first. Players who complete the seed will earn up to 24 points based on their placement. The point distribution will scale evenly depending on the number of possible completions for that round (max of 24).
 
 At the end of some seeds, players will be eliminated based on the amount of points they have earned. Here is the elimination breakdown (Each elimination will happen AFTER the seed that it corresponds with)
 
@@ -20,7 +19,7 @@ At the end of some seeds, players will be eliminated based on the amount of poin
 - Seed 9 - __**Top 6 total points move on**__
 - Seed 10 - __**Top 4 total points win!**__
 
-In the event of a point tie that disrupts an elimination (ex. 10th and 11th are tied after seed 7), all involved players will move on to the next round, but the next elimination will remain unchanged. In the rare case there is a tie for last after seed 10, a sudden death seed will be played.
+In the event of a point tie that disrupts an elimination (ex. 10th and 11th are tied after seed 7), all involved players will move on to the next round, but the next elimination will remain unchanged. In the rare case there is a tie for 4th place after seed 10, a sudden death 1v1 will be played.
 
 ## Rewards Distibution
 | Placement    | Phase point rewards |

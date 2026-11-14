@@ -8,7 +8,7 @@ Pages should be broken up into sections defined with hashtags (`## Format and La
 
 ## Simple Prose
 
-Keep the language of the wiki natural and easy to understand. Avoid long sentences, "filler" words and slang / idioms which don't translate well.
+Keep the language of the wiki natural and easy to understand. Avoid long sentences, "filler" words, and slang / idioms which don't translate well.
 
 Sometimes words don't do a concept justice. Supporting images go a long way - these should be PNGs and kept inside the relevant `img` folder. Always add alt text.
 
